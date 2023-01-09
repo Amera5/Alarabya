@@ -1,0 +1,801 @@
+* {
+    text-transform: capitalize;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+body {
+    position: relative;
+    margin: 0px;
+    width: 1600;
+    height: 5402px;
+    /* background: #fbfbfb; */
+}
+
+
+/* header */
+
+header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 104px;
+}
+
+#header {
+    height: 104px;
+    width: 1600px;
+    background: #071f54;
+}
+
+
+/* logo */
+
+h1 {
+    position: absolute;
+    width: 118px;
+    height: 24px;
+    left: 160px;
+    top: 44px;
+    font-family: 'Rubik';
+    font-style: bold;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+/* img logo */
+
+img {
+    margin: auto;
+    position: absolute;
+    left: 7.5%;
+    top: 42px;
+    width: 38px;
+    height: 34px;
+}
+
+
+/* navbar */
+
+.findjobs {
+    box-shadow: 5px, 5px, 5px, 5px;
+    box-sizing: border-box;
+    background-color: #071f54;
+    color: #FFFFFF;
+    font-size: 15px;
+    border: 0px;
+    width: 96px;
+}
+
+#postcv {
+    position: absolute;
+    left: 538px;
+    top: 44px;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+
+/* find jobs menu */
+
+.drop-menu {
+    border: 0px;
+    background: #071f54;
+    color: white;
+    position: absolute;
+    left: 424px;
+    top: 44px;
+    margin: auto;
+}
+
+.box {
+    background-color: #FFFFFF;
+    color: #071f54;
+    border: 0px;
+    border-radius: 5px;
+}
+
+#jobsbycountry {
+    position: absolute;
+    top: 44px;
+    left: 663px;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+input {
+    border: 1px solid #FF4402;
+    border-radius: 6px;
+    color: #FFFFFF;
+    background-color: #071f54;
+}
+
+input:hover {
+    border-color: #FFFFFF;
+    border-radius: 6px;
+    background: #FF4402;
+}
+
+.login {
+    position: absolute;
+    left: 1154px;
+    top: 42px;
+    width: 42px;
+    height: 19px;
+    border: 0px;
+}
+
+.signup {
+    position: absolute;
+    left: 1216px;
+    top: 33px;
+    width: 104px;
+    height: 38px;
+}
+
+.employer {
+    background: #FF4402;
+    color: #FFFFFF;
+    position: absolute;
+    left: 1333px;
+    top: 33px;
+    width: 105px;
+    height: 38px;
+}
+
+
+/* languages drop menu */
+
+.lang {
+    background-color: #071f54;
+    color: #FFFFFF;
+    position: absolute;
+    left: 1457px;
+    top: 42px;
+    width: 21px;
+    height: 19px;
+}
+
+.la2 {
+    box-shadow: 2px, 2px, 2px, 5px;
+    background-color: #FFFFFF;
+    color: #071f54;
+    border: 0px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+/* section1 */
+
+.s {
+    position: absolute;
+    width: 1380px;
+    height: 604px;
+    left: 110px;
+    top: 161px;
+    background: #f8f8f8;
+    border-radius: 25px;
+    margin: auto;
+}
+
+
+/* fIND YOUR jobs & MAKE SURE GOAL */
+
+.sec1 {
+    position: absolute;
+    width: 475px;
+    height: 84px;
+    left: 50px;
+    top: 88px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 53px;
+    text-transform: uppercase;
+    color: #062045;
+    margin: auto;
+    line-height: 90px;
+}
+
+
+/* Search Jobs world wide */
+
+.sect label {
+    position: absolute;
+    width: 555px;
+    height: 35px;
+    left: 50px;
+    top: 252px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    color: #4F5665;
+    margin: auto;
+}
+
+.sect input {
+    position: absolute;
+    width: 266px;
+    height: 60px;
+    left: 46px;
+    top: 309px;
+    background: #EDEDED;
+    border-radius: 5px;
+    margin: 0px;
+}
+
+.sect select {
+    position: absolute;
+    width: 209px;
+    height: 60px;
+    left: 323px;
+    top: 309px;
+    background: #EDEDED;
+    border-radius: 5px;
+    margin: 0px;
+}
+
+.sect [type="button"] {
+    position: absolute;
+    width: 70px;
+    height: 60px;
+    left: 544px;
+    top: 309px;
+    border-radius: 5px;
+    margin: 0px;
+    background: url(images/search.jfif);
+    background-repeat: no-repeat;
+    background-size: 70px, 60px;
+}
+
+.sec1-img {
+    position: absolute;
+    top: px;
+    left: 632px;
+    width: 695.9px;
+    height: 492.85Px;
+    margin: auto;
+}
+
+.sec1-img img {
+    position: absolute;
+    width: 695.9px;
+    height: 492.85px;
+}
+
+.futcher-company {
+    position: absolute;
+    left: 608px;
+    top: 827px;
+    width: 366px;
+    height: 54px;
+    font-size: 60px;
+    font-weight: 500;
+    background: #FFFFFF;
+}
+
+[alt="Netflix"] {
+    position: absolute;
+    left: 239px;
+    top: 938.91px;
+    width: 190px;
+    height: 60px;
+    background-color: #FFFFFF;
+}
+
+[alt="Reddit"] {
+    position: absolute;
+    left: 481.5px;
+    top: 940.34px;
+    width: 190px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+[alt="Amazon"] {
+    position: absolute;
+    left: 714.88px;
+    top: 950px;
+    width: 190px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+[alt="discord"] {
+    position: absolute;
+    left: 956.38px;
+    top: 938px;
+    width: 190px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+[ alt="spotify"] {
+    position: absolute;
+    left: 1193.88px;
+    right: 216px;
+    top: 939.67px;
+    width: 190px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+.Featured-companies {
+    position: absolute;
+    width: 366px;
+    height: 54px;
+    left: 608px;
+    top: 827px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    color: #071F45;
+}
+
+.popular-Job-category {
+    margin: auto;
+    position: absolute;
+    top: 1078px;
+    left: 0px;
+    background-color: #4F5665;
+}
+
+.popular-Job-category section {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 2px solid #CACACA;
+    border-radius: 10px;
+    width: 435px;
+    height: 131px;
+    /* z-index: 2; */
+}
+
+.popular-Job-category section:hover {
+    background: #FF4402;
+}
+
+.popular-Job-category h2 {
+    /* popular job categories */
+    position: absolute;
+    width: 500px;
+    height: 60px;
+    left: 598px;
+    top: 373px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    color: #071F45;
+    word-break: keep-all;
+}
+
+.popular-Job-category h3:hover {
+    color: #FFFFFF;
+}
+
+.popular-Job-category p:hover {
+    color: #FFFFFF;
+}
+
+.popular-Job-category h3 {
+    position: absolute;
+    width: 197px;
+    height: 20px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #071F45;
+    word-break: keep-all;
+}
+
+.popular-Job-category img {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    background: #F8F8F8;
+}
+
+.popular-Job-category p {
+    position: absolute;
+    width: 129px;
+    height: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #4F5665;
+}
+
+
+/* human resorces */
+
+#human-resources {
+    position: absolute;
+    left: 110px;
+    top: 467px;
+}
+
+#human-resources h3 {
+    position: absolute;
+    left: 115px;
+    top: 53px;
+}
+
+#human-resources img {
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+#human-resources p {
+    position: absolute;
+    left: 123px;
+    top: 73px;
+}
+
+
+/* Accounting & Audit */
+
+#Accounting-Audit {
+    position: absolute;
+    left: 110px;
+    top: 642px;
+}
+
+#Accounting-Audit img {
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+#Accounting-Audit h3 {
+    position: absolute;
+    top: 42px;
+    left: 123px;
+}
+
+#Accounting-Audit p {
+    position: absolute;
+    left: 123px;
+    top: 73px;
+}
+
+
+/* Hotels & Restaurants */
+
+#Hotels-Restaurants {
+    position: absolute;
+    left: 110px;
+    top: 817px;
+}
+
+#Hotels-Restaurants h3 {
+    position: absolute;
+    left: 115px;
+    top: 42px;
+}
+
+#Hotels-Restaurants img {
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+#Hotels-Restaurants p {
+    position: absolute;
+    left: 123px;
+    top: 73px;
+}
+
+
+/* #Engineering */
+
+#Engineering {
+    position: absolute;
+    left: 582px;
+    top: 467px;
+}
+
+#Engineering h3 {
+    position: absolute;
+    left: 139px;
+    top: 42px;
+}
+
+#Engineering img {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#Engineering p {
+    position: absolute;
+    left: 139px;
+    top: 73px;
+}
+
+
+/* #Maintenance-Repair */
+
+#Maintenance-Repair {
+    position: absolute;
+    left: 582px;
+    top: 642px;
+}
+
+#Maintenance-Repair h3 {
+    position: absolute;
+    left: 133px;
+    top: 42px;
+}
+
+#Maintenance-Repair img {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#Maintenance-Repair p {
+    position: absolute;
+    top: 73px;
+    left: 133px;
+}
+
+
+/* #Driving */
+
+#Driving {
+    position: absolute;
+    left: 582px;
+    top: 817px;
+}
+
+#Driving h3 {
+    position: absolute;
+    left: 133px;
+    top: 42px;
+}
+
+#Driving img {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#Driving p {
+    position: absolute;
+    top: 73px;
+    left: 133px;
+}
+
+
+/* #Sales-Retail */
+
+#Sales-Retail {
+    position: absolute;
+    left: 1054px;
+    top: 467px;
+}
+
+#Sales-Retail img {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#Sales-Retail h3 {
+    position: absolute;
+    left: 143px;
+    top: 42px;
+}
+
+#Sales-Retail p {
+    position: absolute;
+    left: 141px;
+    top: 73px;
+}
+
+
+/* #IT-SoftwareDevelopment */
+
+#IT-SoftwareDevelopment {
+    position: absolute;
+    left: 1054px;
+    top: 642px;
+}
+
+#IT-SoftwareDevelopment img {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#IT-SoftwareDevelopment h3 {
+    position: absolute;
+    left: 141px;
+    top: 48px;
+    word-break: keep-all;
+}
+
+#IT-SoftwareDevelopment p {
+    position: absolute;
+    left: 141px;
+    top: 73px;
+}
+
+
+/* #Healthcare-Medical */
+
+#Healthcare-Medical {
+    position: absolute;
+    left: 1054px;
+    top: 817px;
+}
+
+#Healthcare-Medical img {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#Healthcare-Medical h3 {
+    position: absolute;
+    left: 141px;
+    top: 42px;
+}
+
+#Healthcare-Medical p {
+    position: absolute;
+    left: 141px;
+    top: 73px;
+}
+
+
+/* all categories */
+
+.popular-Job-category input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    left: 730px;
+    top: 992px;
+    border: 1px solid #FF4402;
+    border-radius: 6px;
+    background: #EDEDED;
+    color: #FF4402;
+}
+
+.popular-Job-category input:hover {
+    background: #FF4402;
+    color: #FFFFFF;
+}
+
+.dream-jobs {
+    position: absolute;
+    top: 2152px;
+    left: 0px;
+}
+
+.sec2 {
+    position: absolute;
+    top: 104px;
+    left: 978px;
+    width: 453px;
+    height: 54px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #071F45;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50px;
+    word-break: keep-all;
+}
+
+.dream-jobs section img {
+    position: absolute;
+    left: 128px;
+    top: 81px;
+    width: 550.9px;
+    height: 533px;
+}
+
+.dream-jobs h4 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    color: #1A2237;
+}
+
+.dream-jobs p {
+    width: 428px;
+    height: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #4F5665;
+}
+
+.h1 {
+    position: absolute;
+    top: 241px;
+    left: 1000px;
+    width: 555px;
+    height: 35px;
+}
+
+.p1 {
+    position: absolute;
+    width: 428px;
+    height: 21px;
+    left: 991px;
+    top: 290px;
+}
+
+.h2 {
+    position: absolute;
+    width: 555px;
+    height: 35px;
+    left: 1000px;
+    top: 340px;
+}
+
+.p2 {
+    position: absolute;
+    width: 428px;
+    height: 21px;
+    left: 991px;
+    top: 389px;
+}
+
+.h3 {
+    position: absolute;
+    width: 555px;
+    height: 35px;
+    left: 1000px;
+    top: 456px;
+}
+
+.p3 {
+    position: absolute;
+    width: 428px;
+    height: 21px;
+    left: 991px;
+    top: 505px;
+}
