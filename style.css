@@ -100,7 +100,7 @@ img {
     border-radius: 5px;
 }
 
-#jobsbycountry {
+#contactus {
     position: absolute;
     top: 44px;
     left: 663px;
@@ -116,7 +116,7 @@ input {
 }
 
 input:hover {
-    border-color: #FFFFFF;
+    border: 0px;
     border-radius: 6px;
     background: #FF4402;
 }
@@ -124,9 +124,9 @@ input:hover {
 .login {
     position: absolute;
     left: 1154px;
-    top: 42px;
+    top: 33px;
     width: 42px;
-    height: 19px;
+    height: 38px;
     border: 0px;
 }
 
@@ -328,7 +328,6 @@ a {
 [ alt="spotify"] {
     position: absolute;
     left: 1193.88px;
-    right: 216px;
     top: 939.67px;
     width: 190px;
     height: 90px;
@@ -354,7 +353,7 @@ a {
 .popular-Job-category {
     margin: auto;
     position: absolute;
-    top: 1078px;
+    top: 909px;
     left: 0px;
     background-color: #4F5665;
 }
@@ -703,7 +702,7 @@ a {
 
 .dream-jobs {
     position: absolute;
-    top: 2152px;
+    top: 1839px;
     left: 0px;
 }
 
@@ -799,3 +798,1041 @@ a {
     left: 991px;
     top: 505px;
 }
+
+
+/* latest job here */
+
+.latest-job {
+    position: absolute;
+    width: 1912px;
+    height: 898px;
+    left: -189px;
+    top: 2424px;
+    bottom: 2080px;
+    background: #F8F8F8;
+    border-radius: 25px;
+    Width: 1912px;
+    Height: 898px;
+}
+
+.latest-job a {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #1A2237;
+    background: none;
+    border: 0px;
+}
+
+.latest-job a:hover {
+    color: #FF4402;
+}
+
+.latest-job .ljob {
+    height: 35px;
+    width: 138px;
+    position: absolute;
+    top: 244px;
+    left: 301px;
+}
+
+.latest-job .ljob2 {
+    height: 35px;
+    width: 110px;
+    position: absolute;
+    top: 244px;
+    left: 461px;
+}
+
+.latest-job .ljob3 {
+    height: 35px;
+    width: 158px;
+    position: absolute;
+    top: 244px;
+    left: 613px;
+}
+
+.latest-job div {
+    width: 57px;
+    height: 57px;
+    border-radius: 50px;
+}
+
+.latest-job .back {
+    background: url(images/back.jfif);
+    background-repeat: no-repeat;
+    background-size: 57px, 57px;
+    width: 57px;
+    height: 57px;
+    border: 0px;
+    position: absolute;
+    top: 213px;
+    right: 306px;
+    background-position: center;
+}
+
+.latest-job .next {
+    background: url(images/next.jfif);
+    background-repeat: no-repeat;
+    background-size: 57px, 57px;
+    width: 57px;
+    height: 57px;
+    border: 0px;
+    background-position: center;
+    position: absolute;
+    top: 213px;
+    right: 237px;
+}
+
+.latest-job section {
+    box-sizing: border-box;
+    width: 435px;
+    height: 186px;
+    background: #FFFFFF;
+    border: 2px solid #CACACA;
+    border-radius: 10px;
+}
+
+.latest-job section:hover {
+    border-color: #FF4402;
+}
+
+.latest-job h2 {
+    position: absolute;
+    width: 283px;
+    height: 54px;
+    left: 848px;
+    top: 65px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.latest-job h3 {
+    width: 117px;
+    height: 23px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #071F45;
+    word-break: keep-all;
+}
+
+.latest-job p {
+    width: 193px;
+    height: 28px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    color: #071F45;
+}
+
+
+/* art teacher sec1 */
+
+.art-teacher {
+    position: absolute;
+    left: 299px;
+    top: 314px;
+}
+
+.art-teacher2 {
+    position: absolute;
+    left: 299px;
+    top: 540px;
+}
+
+.Executive-Secretary {
+    position: absolute;
+    top: 314px;
+    left: 771px;
+}
+
+.Executive-Secretary2 {
+    position: absolute;
+    top: 540px;
+    left: 771px;
+}
+
+.Sales-Supervisor {
+    position: absolute;
+    left: 1234px;
+    top: 314px;
+}
+
+.Sales-Supervisor .gps {
+    width: 159px;
+    height: 28px;
+    word-break: keep-all;
+    word-spacing: 3.5px;
+}
+
+.Sales-Supervisor2 {
+    position: absolute;
+    left: 1234px;
+    top: 540px;
+}
+
+.Sales-Supervisor2 .gps {
+    width: 159px;
+    height: 28px;
+    word-break: keep-all;
+    word-spacing: 3.5px;
+}
+
+[src="images/latest job.jfif"] {
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    bottom: 77px;
+    width: 84px;
+    height: 84px;
+    border-radius: 50;
+}
+
+.latest-job section h3 {
+    position: absolute;
+    top: 42px;
+    left: 120px;
+    width: 117px;
+    height: 23px;
+}
+
+[src="images/company.jfif"] {
+    position: absolute;
+    top: 77px;
+    left: 126px;
+    Width: 15px;
+    Height: 14px;
+}
+
+.c {
+    position: absolute;
+    top: 71px;
+    left: 148px;
+    width: 193px;
+    height: 28px;
+}
+
+[src="images/GPS.jfif"] {
+    position: absolute;
+    top: 105px;
+    left: 127px;
+    width: 16.91px;
+    height: 16.91px;
+}
+
+.latest-job section .gps {
+    position: absolute;
+    top: 99px;
+    left: 148px;
+    width: 77px;
+    height: 28px;
+}
+
+.latest-job section [src="images/calendar.jfif"] {
+    position: absolute;
+    top: 137px;
+    left: 127px;
+    width: 15px;
+    height: 15px;
+}
+
+.latest-job section .time {
+    position: absolute;
+    top: 131px;
+    left: 148px;
+    width: 77px;
+    height: 28px;
+}
+
+.latest-job section input {
+    background: url(images/unlike.jfif);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 17.98px;
+    left: 395.99px;
+    width: 17.92px;
+    height: 15.29px;
+    background-size: 15.29px, 17.92px;
+    border: 0px;
+}
+
+.latest-job section input:hover {
+    background: url(images/like.jfif);
+    background-size: 15.29px, 17.92px;
+    background-repeat: no-repeat;
+}
+
+.latest-job [value="All Jobs"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    left: 919px;
+    top: 787px;
+    border: 1px solid #FF4402;
+    border-radius: 6px;
+    background: #f8f8f8;
+    color: #FF4402;
+}
+
+.latest-job [value="All Jobs"]:hover {
+    background: #FF4402;
+    color: #FFFFFF;
+}
+
+
+/* .Jobs-by-Country */
+
+.Jobs-by-Country {
+    position: absolute;
+    top: 3322px;
+    text-align: center;
+    width: 1600px;
+    height: 909px;
+    background-color: #F8F8F8;
+}
+
+.Jobs-by-Country h2 {
+    position: absolute;
+    top: 60px;
+    left: 659px;
+    width: 295px;
+    height: 54px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.Jobs-by-Country img {
+    position: absolute;
+    width: 1277.72px;
+    height: 648.23px;
+    left: 161.14px;
+    top: 187.77px;
+    background: #DDE0E4;
+    opacity: 0.7;
+}
+
+.Jobs-by-Country input {
+    background: url(images/country\ butten.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    border: 0px;
+    border-radius: 50%;
+}
+
+.b1 {
+    position: absolute;
+    left: 1359px;
+    top: 292.19px;
+    width: 25.42px;
+    height: 25.42px;
+}
+
+.b2 {
+    position: absolute;
+    left: 1077.61px;
+    top: 350.72px;
+    width: 42.98px;
+    height: 42.98px;
+}
+
+.b3 {
+    position: absolute;
+    width: 19.4px;
+    height: 19.4px;
+    left: 1125.21px;
+    top: 452.19px;
+}
+
+.b4 {
+    position: absolute;
+    width: 33.51px;
+    height: 33.51px;
+    left: 955.02px;
+    top: 329.34px;
+}
+
+.b5 {
+    position: absolute;
+    width: 42.58px;
+    height: 42.58px;
+    left: 863.62px;
+    top: 477.89px;
+}
+
+.b6 {
+    position: absolute;
+    width: 34.12px;
+    height: 34.12px;
+    left: 835.53.23px;
+    top: 384.89px;
+}
+
+.b7 {
+    position: absolute;
+    width: 25.42px;
+    height: 25.42px;
+    top: 315.17px;
+    left: 787.29px;
+}
+
+.b8 {
+    position: absolute;
+    width: 20.8px;
+    height: 20.8px;
+    left: 1143.39px;
+    top: 615.1px;
+}
+
+.b9 {
+    position: absolute;
+    width: 35.36px;
+    height: 35.36px;
+    left: 1179.8px;
+    top: 683.75px;
+}
+
+.b10 {
+    position: absolute;
+    width: 19.38px;
+    height: 19.38px;
+    left: 1271.77px;
+    top: 716.12px;
+}
+
+.b11 {
+    position: absolute;
+    width: 25.42px;
+    height: 25.42px;
+    left: 735.34px;
+    top: 514.62px;
+}
+
+.b12 {
+    position: absolute;
+    width: 43.84px;
+    height: 43.84px;
+    left: 846.22px;
+    top: 526.5px;
+}
+
+.b13 {
+    position: absolute;
+    width: 36.45px;
+    height: 36.45px;
+    left: 836.81px;
+    top: 652.21px;
+}
+
+.b14 {
+    position: absolute;
+    width: 20.69px;
+    height: 20.69px;
+    left: 667.79px;
+    top: 210.09px;
+}
+
+.b15 {
+    position: absolute;
+    width: 25.36px;
+    height: 25.36px;
+    left: 588.46px;
+    top: 223.3px;
+}
+
+.b16 {
+    position: absolute;
+    width: 18.42px;
+    height: 18.42px;
+    left: 594.5px;
+    top: 305.96px;
+}
+
+.b17 {
+    position: absolute;
+    width: 19.4px;
+    height: 19.4px;
+    left: 488.58px;
+    top: 189.86px;
+}
+
+.b18 {
+    position: absolute;
+    width: 25.36px;
+    height: 25.36px;
+    left: 1038.36px;
+    top: 353.92px;
+}
+
+.b19 {
+    position: absolute;
+    width: 22.36px;
+    height: 22.36px;
+    left: 454.72px;
+    top: 434.91px;
+}
+
+.b20 {
+    position: absolute;
+    width: 25.36px;
+    height: 25.36px;
+    left: 398.82px;
+    top: 303.43px;
+}
+
+.b21 {
+    position: absolute;
+    width: 21.05px;
+    height: 21.05px;
+    left: 390.48px;
+    top: 475.94px;
+}
+
+.b22 {
+    position: absolute;
+    width: 37.17px;
+    height: 37.17px;
+    left: 357.66px;
+    top: 363.49px;
+}
+
+.b23 {
+    position: absolute;
+    width: 25.42px;
+    height: 25.42px;
+    left: 292.19px;
+    top: 306.94px;
+}
+
+.b24 {
+    position: absolute;
+    width: 16.09px;
+    height: 16.09px;
+    left: 304.04px;
+    top: 205.74px;
+}
+
+.b25 {
+    position: absolute;
+    width: 25.42px;
+    height: 25.42px;
+    left: 500.21px;
+    top: 572.6px;
+}
+
+.b26 {
+    position: absolute;
+    width: 34.59px;
+    height: 34.59px;
+    left: 545.59px;
+    top: 633.12px;
+}
+
+.b27 {
+    position: absolute;
+    width: 16.84px;
+    height: 16.84px;
+    left: 608.19px;
+    top: 627.48px;
+}
+
+.b28 {
+    position: absolute;
+    width: 25.42px;
+    height: 25.42px;
+    left: 516.45px;
+    top: 722.78px;
+}
+
+
+/* Are you looking for a job or employer ? */
+
+.looking {
+    position: absolute;
+    width: 1912px;
+    height: 666px;
+    left: -186px;
+    top: 4231px;
+    background: #F8F8F8;
+    border-radius: 25px;
+}
+
+.looking h2 {
+    position: absolute;
+    width: 557px;
+    height: 112px;
+    left: 299px;
+    top: 148px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 60px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.looking p {
+    position: absolute;
+    width: 548px;
+    height: 134px;
+    left: 296px;
+    top: 274px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #4F5665;
+}
+
+.looking img {
+    position: absolute;
+    width: 707px;
+    height: 471px;
+    left: 969px;
+    top: 98px;
+}
+
+.looking input {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+}
+
+.looking [value="looking for job"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 130px;
+    height: 38px;
+    left: 299px;
+    top: 451px;
+    border: 1px solid #FF4402;
+    border-radius: 6px;
+    background: #F8F8F8;
+    color: #FF4402;
+}
+
+.looking [value="looking for job"]:hover {
+    background: #FF4402;
+    color: #FFFFFF;
+}
+
+.looking [value="employer?"] {
+    position: absolute;
+    width: 130px;
+    height: 38px;
+    left: 493px;
+    top: 451px;
+    background: #FF4402;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+
+.looking [value="employer?"]:hover {
+    color: #FF4402;
+    background: #FFffff;
+}
+
+
+/* footer */
+
+footer {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 1600px;
+    height: 444px;
+    background: #071F45;
+}
+
+footer [alt="ALARABYA logo"] {
+    position: absolute;
+    top: 68px;
+    left: 114px;
+    width: 41px;
+    height: 37px;
+}
+
+footer h2 {
+    position: absolute;
+    width: 118px;
+    height: 24px;
+    left: 160px;
+    top: 74px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+footer p {
+    position: absolute;
+    width: 385.41px;
+    height: 69.8px;
+    left: 114px;
+    top: 148px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #B8BECC;
+}
+
+footer table {
+    position: absolute;
+    top: 89px;
+    left: 796px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 646.12px;
+    height: 181px;
+    border: 0px;
+}
+
+footer table tr {
+    width: 139px;
+    height: 34px;
+}
+
+footer table th {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+footer td {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #ABAEB7;
+}
+
+[alt="insta"] {
+    position: absolute;
+    left: 14.72%;
+    right: 82.9%;
+    top: 251.8px;
+    Width: 38.09px;
+    Height: 38.09px;
+    border-radius: 50%;
+}
+
+[alt="facebook"] {
+    position: absolute;
+    width: 38.09px;
+    height: 38.09px;
+    left: 114px;
+    top: 251.8px;
+    border-radius: 50%;
+}
+
+[alt="twitter"] {
+    position: absolute;
+    width: 38.09px;
+    height: 38.09px;
+    left: 174.76px;
+    top: 251.8px;
+    border-radius: 50%;
+}
+
+footer .copy-right {
+    position: absolute;
+    width: 149.63px;
+    height: 34.01px;
+    left: 753px;
+    top: 323.89px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #AFB5C0;
+}
+
+#all-category {
+    width: 1600px;
+    height: 3051px;
+}
+
+
+/* body{
+    width: 1600px;
+    height: 3051px;
+} */
+
+.all-category-page {
+    width: 1780px;
+    height: 2536px;
+    position: absolute;
+    top: 104px;
+    left: -44px;
+    background: #f8f8f8;
+}
+
+.all-category-page section {
+    width: 435px;
+    height: 131px;
+    background: #FFffff;
+    border: 2px solid #CACACA;
+    border-radius: 10px;
+}
+
+.all-category-page section:hover {
+    background: #FF4402;
+    color: #FFFFFF;
+}
+
+.all-category-page section h3 {
+    position: absolute;
+    top: 42px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.all-category-page section p {
+    position: absolute;
+    top: 73px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    color: #4F5665;
+}
+
+.all-category-page section img {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 25px;
+    border-radius: 50%;
+}
+
+.left {
+    position: absolute;
+    left: 154px;
+}
+
+.left img {
+    left: 20px;
+}
+
+.left h3 {
+    left: 123px;
+}
+
+.left p {
+    left: 123px;
+}
+
+.middel {
+    position: absolute;
+    left: 626px;
+}
+
+.middel h3 {
+    left: 133px;
+}
+
+.middel p {
+    left: 133px;
+}
+
+.middel img {
+    left: 25px;
+}
+
+.right {
+    position: absolute;
+    left: 1098px;
+}
+
+.right img {
+    left: 27px;
+}
+
+.right h3 {
+    left: 141px;
+}
+
+.right p {
+    left: 141px;
+}
+
+.r1 {
+    top: 432px;
+}
+
+.r2 {
+    top: 607px;
+}
+
+.r3 {
+    top: 782px;
+}
+
+.r4 {
+    top: 957px;
+}
+
+.r5 {
+    top: 1132px;
+}
+
+.r6 {
+    top: 1307px;
+}
+
+.r7 {
+    top: 1482px;
+}
+
+.r8 {
+    top: 1657px;
+}
+
+.r9 {
+    top: 1832px;
+}
+
+.r10 {
+    top: 2007px;
+}
+
+.r11 {
+    top: 2182px;
+}
+
+.bar {
+    position: absolute;
+    top: 300px;
+    left: 162px;
+    width: 1380px;
+    height: 96px;
+    background: #FFFFFF;
+}
+
+.all-category-page h2 {
+    position: absolute;
+    top: 154px;
+    left: 649px;
+    width: 389px;
+    height: 80px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 70px;
+    text-transform: uppercase;
+    color: #062045;
+}
+
+.all-category-page p {
+    position: absolute;
+    width: 260px;
+    height: 35px;
+    left: 714px;
+    top: 230px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    color: #4F5665;
+}
+
+.bar input {
+    background: #EDEDED;
+    border-radius: 5px;
+}
+
+.bar [type="text"] {
+    position: absolute;
+    width: 632px;
+    height: 60px;
+    left: 13px;
+    top: 18px;
+}
+
+#loc {
+    position: absolute;
+    width: 607px;
+    height: 60px;
+    left: 657px;
+    top: 18px;
+    background: #EDEDED;
+}
+
+.bar [type="button"] {
+    position: absolute;
+    width: 70px;
+    height: 60px;
+    left: 1277px;
+    top: 18px;
+    border-radius: 5px;
+    background: url(images/search.jfif);
+    background-repeat: no-repeat;
+    background-size: 70px, 60px;
+}
+
+.next-page {
+    position: absolute;
+    top: 2389px;
+    right: 250px;
+    width: 348px;
+    height: 66px;
+}
+
+.next-page p {}
