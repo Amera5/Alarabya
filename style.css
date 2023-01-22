@@ -1592,6 +1592,9 @@ footer .copy-right {
     color: #AFB5C0;
 }
 
+
+/* all job category page */
+
 #all-category {
     width: 1600px;
     height: 3051px;
@@ -1938,6 +1941,9 @@ section h3:hover {
     top: 2654px;
 }
 
+
+/* login page */
+
 .login-page {
     width: 1600px;
     height: 1701px;
@@ -2264,6 +2270,9 @@ section h3:hover {
     top: 258.84px;
 }
 
+
+/* signup page */
+
 .sign-up {
     background: #E5E5E5;
     height: 1806px;
@@ -2516,6 +2525,9 @@ section h3:hover {
     color: #062045;
 }
 
+
+/* forget pass page */
+
 .forget-pass {
     width: 1600px;
     height: 1220;
@@ -2535,16 +2547,34 @@ section h3:hover {
     background: #F8F8F8;
 }
 
-.forget-pass .in-sec {
+.inner-sec {
     position: absolute;
     left: 123px;
     top: 36px;
+    Width: 1380px;
+    Height: 487px;
     background: #FFFFFF;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
     border-radius: 8px;
 }
 
-.forget-pass .in-sec h3 {
+.fimg-sec {
+    position: absolute;
+    left: 28px;
+    top: 31px;
+    bottom: 30px;
+    background: #F8F8F8;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    Width: 591px;
+    Height: 426px;
+}
+
+.in-h:hover {
+    color: #071f54;
+}
+
+.in-h {
     position: absolute;
     width: 449px;
     height: 33px;
@@ -2559,14 +2589,216 @@ section h3:hover {
     color: #071F45;
 }
 
-.forget-pass .in-sec p {
+.in-p {
     position: absolute;
-    left: 778px;
-    top: 121px;
+    left: 655px;
+    top: 85px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
     font-size: 31px;
     line-height: 135.5%;
     color: #2F2F2F;
+}
+
+.in-e {
+    position: absolute;
+    width: 328px;
+    height: 12px;
+    left: 657px;
+    top: 220px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+.in-eb {
+    top: 257px;
+}
+
+.res-pas {
+    position: absolute;
+    width: 671px;
+    height: 79.17px;
+    left: 666px;
+    top: 367px;
+    background: #FF6048;
+    border-radius: 8px;
+}
+
+.in-img {
+    position: absolute;
+    width: 451px;
+    height: 300px;
+    left: 70px;
+    top: 52px;
+}
+
+
+/* reset pass page */
+
+.reset-pas {
+    width: 1600px;
+    height: 1338px;
+}
+
+.reset-f {
+    position: absolute;
+    width: 1600px;
+    height: 444px;
+    left: 0px;
+    top: 884px;
+}
+
+.res-out {
+    position: absolute;
+    width: 1609px;
+    height: 681px;
+    left: -9px;
+    top: 153px;
+    background: #F8F8F8;
+}
+
+.res-in {
+    position: absolute;
+    left: 123px;
+    top: 36px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.res-is {
+    position: absolute;
+    left: 28px;
+    right: 761px;
+    top: 34px;
+    bottom: 37px;
+    background: #F8F8F8;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+}
+
+.res-img {
+    position: absolute;
+    width: 451px;
+    height: 300px;
+    left: 70px;
+    top: 109px;
+}
+
+.res-h {
+    position: absolute;
+    width: 449px;
+    height: 33px;
+    left: 654px;
+    top: 37px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.res-h:hover {
+    color: #071F45;
+}
+
+.res-p {
+    position: absolute;
+    left: 655px;
+    top: 85px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 135.5%;
+    color: #2F2F2F;
+    word-break: keep-all;
+    Width: 646px;
+    Height: 42px;
+}
+
+.res-new {
+    position: absolute;
+    width: 164px;
+    height: 12.34px;
+    left: 659px;
+    top: 168px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+.res-inew {
+    position: absolute;
+    top: 202.96px;
+    width: 681px;
+    height: 79.17px;
+    left: 656px;
+    background: #F2F2F2;
+    border-radius: 8px;
+    font-size: 20px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.res-con {
+    position: absolute;
+    width: 290px;
+    height: 12px;
+    left: 659px;
+    top: 317px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.res-ico {
+    position: absolute;
+    width: 681px;
+    height: 79.17px;
+    left: 656px;
+    top: 351.96px;
+    background: #F2F2F2;
+    border-radius: 8px;
+    font-size: 20px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.res-sub {
+    position: absolute;
+    width: 671px;
+    height: 79.17px;
+    left: 666px;
+    top: 461px;
+    background: #FF6048;
+    border-radius: 8px;
+}
+
+.res-in [type="password"]:hover {
+    background-color: #F2F2F2;
+    color: #000;
+}
+
+.res-in [type="password"] {
+    border: 0px;
 }
