@@ -2802,3 +2802,176 @@ section h3:hover {
 .res-in [type="password"] {
     border: 0px;
 }
+
+.la3 {
+    color: #FFFFFF;
+    border: 0px;
+}
+
+.lang {
+    color: white;
+    width: 51px;
+    height: 20px;
+    border: 0px;
+}
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+    margin-right: 188px;
+    margin-top: 26px;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown:hover .dropbtn {
+    border: 1px, solid, #071f54;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    width: 192px;
+    height: 361px;
+    background: #F8F9FB;
+    box-shadow: 0px 24px 60px #696984;
+    border-radius: 2px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: #071f54;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown img {
+    position: absolute;
+    top: 30px;
+    left: 1228px;
+    border-radius: 20px;
+}
+
+.acc [type="button"] {
+    position: absolute;
+    top: 32px;
+    left: 1161px;
+    width: 27px;
+    height: 31px;
+    background-image: url(images/notfication.jpg);
+    background-repeat: no-repeat;
+    background-size: 27px, 31px;
+    border: 0px;
+}
+
+.profile {
+    width: 1600px;
+    height: 1564px;
+}
+
+.profile-f {
+    top: 1148px;
+}
+
+.profile section {
+    background: #FFffff;
+}
+
+.side-s {
+    position: absolute;
+    top: 178px;
+    left: 117px;
+    width: 314px;
+    height: 932px;
+}
+
+.side-s [src="images/acc.jpg"] {
+    position: absolute;
+    top: 18px;
+    left: 69px;
+    width: 169px;
+    height: 169px;
+}
+
+.side-s h3 {
+    position: absolute;
+    width: 232px;
+    height: 16px;
+    left: 39px;
+    top: 204px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.side-s h3:hover {
+    color: #071F45;
+}
+
+.side-s p {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.side-s .jn {
+    position: absolute;
+    width: 181px;
+    height: 16px;
+    left: 64px;
+    top: 246px;
+    font-size: 25px;
+    font-feature-settings: 'case' on;
+}
+
+.add {
+    position: absolute;
+    top: 285px;
+    left: 82px;
+    width: 151px;
+    height: 24px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.3px;
+}
+
+.side-s .line1 {
+    position: absolute;
+    width: 314.01px;
+    height: 0px;
+    left: 0px;
+    top: 318px;
+    border: 0.754926px solid #E4E4EF;
+}
