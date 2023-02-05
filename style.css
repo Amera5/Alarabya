@@ -2975,3 +2975,538 @@ section h3:hover {
     top: 318px;
     border: 0.754926px solid #E4E4EF;
 }
+
+.stre {
+    position: absolute;
+    width: 180px;
+    height: 11px;
+    left: 18px;
+    top: 345px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.5px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.hp {
+    position: absolute;
+    width: 34px;
+    height: 11px;
+    left: 261px;
+    top: 345px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.5px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.strenth {
+    box-sizing: border-box;
+    position: absolute;
+    width: 287px;
+    height: 15px;
+    left: 4px;
+    top: 372px;
+    border: 1px solid #CACACA;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.strenth1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 68px;
+    height: 13px;
+    border-radius: 8px 0px 0px 9px;
+    left: 5px;
+    top: 373px;
+    background: #FF4402;
+}
+
+.d {
+    position: absolute;
+    width: 314px;
+    height: 55px;
+    background: #FfFfFf;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.d img {
+    position: absolute;
+    width: 22px;
+    height: 25px;
+    left: 17px;
+}
+
+.d h3,
+.d a {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.pr {
+    left: 0px;
+    top: 408px;
+    background: #f8f8f8;
+    color: #FF4402;
+}
+
+.pr a {
+    color: #FF4402;
+}
+
+.pr h3 {
+    position: absolute;
+    top: 14px;
+    left: 49px;
+}
+
+.pr img {
+    position: absolute;
+    top: 14px;
+    left: 17px;
+}
+
+.ex {
+    left: 0px;
+    top: 463px;
+}
+
+.ex h3 {
+    top: 16px;
+    left: 53px;
+}
+
+.ex img {
+    width: 31px;
+    height: 31px;
+    top: 14px;
+    left: 13px;
+}
+
+.ed {
+    top: 520px;
+    left: 0px;
+}
+
+.ed h3 {
+    top: 15px;
+    left: 47px;
+}
+
+.ed img {
+    width: 29.25px;
+    height: 26.41px;
+    top: 14.83px;
+    left: 14.38px;
+}
+
+.sk {
+    top: 578px;
+}
+
+.sk h3 {
+    top: 17px;
+    left: 52px;
+}
+
+.sk img {
+    top: 14px;
+    left: 16px;
+    width: 24px;
+    height: 28px;
+}
+
+.lan {
+    top: 637px;
+}
+
+.lan h3 {
+    top: 18px;
+    left: 47px;
+}
+
+.lan img {
+    top: 15.87px;
+    left: 16.88px;
+    width: 28.25px;
+    height: 28.25px;
+}
+
+.upc {
+    top: 695px;
+}
+
+.upc h3 {
+    top: 17px;
+    left: 53px;
+}
+
+.upc img {
+    top: 17px;
+    left: 12px;
+    width: 29px;
+    height: 29px;
+}
+
+.pac {
+    top: 753px;
+}
+
+.pac h3 {
+    top: 16px;
+    left: 49px;
+}
+
+.pac img {
+    top: 16.67px;
+    left: 16.67px;
+    width: 26.67px;
+    height: 26.67px;
+}
+
+.ys {
+    top: 811px;
+}
+
+.ys h3 {
+    top: 16px;
+    left: 55px;
+}
+
+.ys img {
+    top: 17px;
+    left: 16.83px;
+    width: 26.83px;
+    height: 28.94px;
+}
+
+.so {
+    top: 869px;
+}
+
+.so h3 {
+    top: 17px;
+    left: 52px;
+}
+
+.so img {
+    top: 14.87px;
+    left: 16.88px;
+    width: 32.25px;
+    height: 32.25px;
+}
+
+.pers-in {
+    position: absolute;
+    width: 1037px;
+    height: 320px;
+    left: 457px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border: 0.754926px solid #DDDDE6;
+}
+
+.pers-in h3 {
+    position: absolute;
+    width: 366px;
+    height: 54px;
+    left: 43px;
+    top: 27px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.pers-in div {
+    position: absolute;
+    width: 1002px;
+    height: 0px;
+    left: 12px;
+    top: 99px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.pers-in p {
+    position: absolute;
+    height: 20px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+}
+
+.pers-in .gender {
+    width: 93px;
+    left: 51px;
+    top: 142px;
+    color: #808080;
+}
+
+.pers-in .gender-type {
+    width: 72px;
+    height: 16px;
+    left: 144px;
+    top: 146px;
+    color: #333333;
+}
+
+.pers-in .birth-date {
+    width: 131px;
+    top: 193px;
+    left: 53px;
+    color: #808080;
+}
+
+.pers-in .date {
+    width: 134px;
+    left: 184px;
+    top: 201px;
+    color: #333333;
+}
+
+.pers-in .Military-Service {
+    top: 246px;
+    left: 51px;
+    width: 183px;
+    color: #808080;
+}
+
+.pers-in .Military {
+    top: 246px;
+    left: 234px;
+    width: 183px;
+    color: #333333;
+}
+
+.pers-in .mobile {
+    top: 143px;
+    left: 551px;
+    width: 84px;
+    color: #808080;
+}
+
+.pers-in .number {
+    top: 143px;
+    left: 635px;
+    width: 155px;
+    color: #333333;
+}
+
+.pers-in .acc-email {
+    top: 195px;
+    left: 551px;
+    width: 72px;
+    color: #808080;
+}
+
+.pers-in .p-email {
+    top: 199px;
+    left: 653px;
+    width: 332px;
+    color: #333333;
+}
+
+.pers-in .Marital-Status {
+    top: 245px;
+    left: 551px;
+    width: 168px;
+    color: #808080;
+}
+
+.pers-in .Status {
+    top: 252px;
+    left: 715px;
+    width: 185px;
+    color: #333333;
+}
+
+.edit {
+    position: absolute;
+    right: 22.75px;
+    top: 25.75px;
+    height: 38.25px;
+    width: 38.25px;
+    background: url(images/profile/edit.jpg);
+    background-size: 38.25px, 38.25px;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+
+.edit:hover {
+    background: url(images/profile/edit.jpg);
+    background-size: 38.25px, 38.25px;
+}
+
+.emial-address {
+    position: absolute;
+    width: 1037px;
+    height: 203px;
+    left: 457px;
+    top: 538px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border: 0.754926px solid #DDDDE6;
+}
+
+.emial-address div {
+    position: absolute;
+    width: 1002px;
+    height: 0px;
+    left: 12px;
+    top: 93px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.emial-address h3 {
+    position: absolute;
+    width: 246px;
+    height: 54px;
+    left: 43px;
+    top: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.emial-address .acc-email {
+    position: absolute;
+    width: 72px;
+    top: 128px;
+    left: 51px;
+    color: #808080;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 20px;
+}
+
+.emial-address .p-email {
+    position: absolute;
+    width: 332px;
+    height: 16px;
+    left: 137px;
+    top: 128px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    letter-spacing: 0.3px;
+    text-transform: lowercase;
+    color: #333333;
+}
+
+.change-pass {
+    position: absolute;
+    width: 1037px;
+    height: 203px;
+    left: 457px;
+    top: 781px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border: 0.754926px solid #DDDDE6;
+}
+
+.change-pass h3 {
+    position: absolute;
+    width: 176px;
+    height: 54px;
+    left: 43px;
+    top: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.change-pass p,
+.change-pass a {
+    top: 128px;
+    left: 51px;
+    width: 354px;
+    height: 40px;
+    color: #808080;
+}
+
+.change-pass p {
+    position: absolute;
+    top: 128px;
+    left: 51px;
+}
+
+.change-pass div {
+    position: absolute;
+    width: 1002px;
+    height: 0px;
+    left: 12px;
+    top: 93px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.profile h3:hover {
+    color: #071F45;
+}
+
+.profile-lan {
+    position: relative;
+    width: 1600px;
+    height: 1564px;
+    background: #FFFFFF;
+}
+
+footer {
+    bottom: 0px;
+    left: 0px;
+}
+
+.profile-lan .pr a {
+    color: #071F45;
+}
+
+.profile-lan .pr {
+    background: #FFffff;
+}
+
+.profile-lan .lan img {
+    left: 14.88px;
+}
+
+.profile-lan .lan a {
+    color: #FF4402;
+}
+
+.profile-lan .lan {
+    background: #f8f8f8;
+}
