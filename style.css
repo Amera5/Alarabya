@@ -1646,7 +1646,7 @@ a:hover {
     color: #071F45;
 }
 
-section h3:hover {
+.bod section h3:hover {
     color: #FFffff;
 }
 
@@ -3482,8 +3482,18 @@ section h3:hover {
 .profile-lan {
     position: relative;
     width: 1600px;
-    height: 1564px;
+    height: 1697px;
     background: #FFFFFF;
+}
+
+.profile-lan header {
+    top: -4px;
+}
+
+.profile-lan .side-s {
+    border: 1px, solid, #696984;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
 }
 
 footer {
@@ -3509,4 +3519,799 @@ footer {
 
 .profile-lan .lan {
     background: #f8f8f8;
+}
+
+.language {
+    position: absolute;
+    width: 1037px;
+    height: 578px;
+    left: 453px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+#l1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 931px;
+    height: 131px;
+    left: 57px;
+    top: 154px;
+    background: #F8F8F8;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+}
+
+#l2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 931px;
+    height: 130px;
+    left: 57px;
+    top: 322px;
+    background: #F8F8F8;
+    border: 1px solid #9B9B9B;
+    border-radius: 4px;
+}
+
+.ed1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 824px;
+    top: 16px;
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+    background: url(images/profile/editb.jpg);
+    background-size: 25px, 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.del {
+    box-sizing: border-box;
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 878.95px;
+    top: 16px;
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+    background: url(images/profile/delet.jpg);
+    background-size: 25px, 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ed1:hover {
+    background: url(images/profile/editb.jpg);
+    background-size: 41px, 41px;
+}
+
+.del:hover {
+    background: url(images/profile/delet.jpg);
+    background-size: 41px, 41px;
+}
+
+.language div h3 {
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 143px;
+    top: 37px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.language div p {
+    position: absolute;
+    width: 434px;
+    height: 26px;
+    left: 143px;
+    top: 65px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: #323131;
+}
+
+.language [value="+Add Language"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 189px;
+    height: 45px;
+    left: 57px;
+    top: 484px;
+    border: 1px solid #071F45;
+    border-radius: 4px;
+    background: #FFffff;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.language h2 {
+    position: absolute;
+    width: 305px;
+    height: 54px;
+    left: 8px;
+    top: 35px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #071F45;
+}
+
+.language .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 12px;
+    top: 107px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.add-lan {
+    position: absolute;
+    width: 1037px;
+    height: 404px;
+    left: 453px;
+    top: 801px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.add-lan h2 {
+    position: absolute;
+    top: 30px;
+    left: 4px;
+    width: 361px;
+    height: 54px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.add-lan [value="X"] {
+    position: absolute;
+    top: 26px;
+    left: 984px;
+    width: 37px;
+    height: 54px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 50px;
+    background: white;
+    text-align: center;
+    color: #E02020;
+    border: 0px;
+}
+
+[value="X"]:hover {
+    border: 0.5px, solid, black;
+    background: white;
+}
+
+[for="language"] {
+    position: absolute;
+    top: 166px;
+    left: 64px;
+    width: 287px;
+    height: 16px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+[ for="level"] {
+    position: absolute;
+    top: 166px;
+    left: 542px;
+    width: 442px;
+    height: 50px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+.add-lan [type="text"] {
+    box-sizing: border-box;
+    position: absolute;
+    top: 216px;
+    left: 66px;
+    width: 451px;
+    height: 85px;
+    font-size: 20px;
+    line-height: 20px;
+    color: #808080;
+    background: #FFffff;
+    width: 451px;
+    height: 85px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+#level {
+    box-sizing: border-box;
+    position: absolute;
+    top: 216px;
+    left: 531px;
+    width: 453px;
+    height: 85px;
+    color: #323131;
+    font-size: 23px;
+    line-height: 20px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25)
+}
+
+#level option {
+    width: 453px;
+    height: 85px;
+}
+
+.add-lang {
+    position: absolute;
+    width: 122px;
+    height: 46px;
+    left: 863px;
+    top: 331px;
+    color: white;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+    background: #FF4402;
+    border-radius: 6px;
+}
+
+[value=" cancel"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 116px;
+    height: 46px;
+    left: 740px;
+    top: 331px;
+    background: white;
+    text-transform: capitalize;
+    color: #938F8F;
+    border: 1px solid #CACACA;
+    border-radius: 6px;
+}
+
+[value=" cancel"]:hover {
+    color: #FFFFFF;
+}
+
+.add-lan .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 12px;
+    top: 103px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+[value="+Add language"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 189px;
+    height: 45px;
+    left: 453px;
+    top: 1242px;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+    color: #071F45;
+    background: white;
+    border: 1px solid #071F45;
+    border-radius: 4px;
+}
+
+[value="+Add language"]:hover {
+    background: #FFffff;
+    border: #071f54 solid;
+}
+
+.lan-f {
+    bottom: -64px;
+}
+
+.pres-info {
+    position: relative;
+    width: 1600px;
+    height: 2536px;
+    background: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.pres-info .pr {
+    color: #FF4402;
+}
+
+.info-f {
+    bottom: -4px;
+}
+
+.personal-info {
+    position: absolute;
+    width: 1027px;
+    height: 1890px;
+    left: 463px;
+    top: 184px;
+    border: 0.1px solid #808080;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.personal-info label {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+.personal-info form {
+    font-size: 20px;
+}
+
+.personal-info h2 {
+    position: absolute;
+    width: 366px;
+    height: 54px;
+    left: 50px;
+    top: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.personal-info .line {
+    position: absolute;
+    width: 1002px;
+    height: 0px;
+    left: 22px;
+    top: 93px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+[for="First"] {
+    position: absolute;
+    width: 146px;
+    height: 16px;
+    left: 54px;
+    top: 165px;
+}
+
+#First {
+    box-sizing: border-box;
+    position: absolute;
+    width: 286px;
+    height: 85px;
+    left: 56px;
+    top: 215px;
+    font-size: 20px;
+    background: #FFffff;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="middel"] {
+    position: absolute;
+    width: 146px;
+    height: 16px;
+    left: 368px;
+    top: 165px;
+}
+
+#middel {
+    box-sizing: border-box;
+    position: absolute;
+    width: 286px;
+    height: 85px;
+    left: 367px;
+    top: 215px;
+    font-size: 20px;
+    background: #fff;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="last"] {
+    position: absolute;
+    width: 146px;
+    height: 16px;
+    left: 679px;
+    top: 165px;
+}
+
+#last {
+    position: absolute;
+    width: 286px;
+    height: 85px;
+    left: 679px;
+    top: 215px;
+    font-size: 20px;
+    background: #fff;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="user-em"] {
+    position: absolute;
+    width: 439.82px;
+    height: 16.09px;
+    left: 54.17px;
+    top: 338.14px;
+}
+
+#user-em {
+    box-sizing: border-box;
+    position: absolute;
+    width: 909px;
+    height: 85px;
+    left: 56px;
+    top: 388px;
+    font-size: 20px;
+    color: #808080;
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="number"] {
+    position: absolute;
+    width: 439.82px;
+    height: 16.09px;
+    left: 52.7px;
+    top: 515px;
+}
+
+#number {
+    box-sizing: border-box;
+    position: absolute;
+    width: 441px;
+    height: 85px;
+    left: 55px;
+    top: 565px;
+    font-size: 18px;
+    background: white;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="Alt-Number"] {
+    position: absolute;
+    width: 439.82px;
+    height: 32.18px;
+    left: 522.7px;
+    top: 515px;
+}
+
+#Alt-Number {
+    box-sizing: border-box;
+    position: absolute;
+    width: 441px;
+    height: 85px;
+    left: 522px;
+    top: 565px;
+    font-size: 18px;
+    background: white;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+#Gender {
+    position: absolute;
+    width: 439.82px;
+    height: 16.09px;
+    left: 54.17px;
+    top: 688px;
+}
+
+#male {
+    position: absolute;
+    top: 742.66px;
+    left: 52px;
+    width: 50px;
+    height: 20px;
+    color: #FF4402;
+}
+
+#male2 {
+    position: absolute;
+    color: #808080;
+    top: 742.66px;
+    left: 94px;
+    width: 50px;
+    height: 20px;
+}
+
+#female {
+    position: absolute;
+    width: 78px;
+    height: 20px;
+    left: 170px;
+    top: 742.66px;
+    color: #FF4402;
+}
+
+#Female2 {
+    position: absolute;
+    color: #808080;
+    top: 743.66px;
+    left: 225px;
+    width: 50px;
+    height: 20px;
+}
+
+.nationality {
+    position: absolute;
+    width: 439.82px;
+    height: 16.09px;
+    left: 54.17px;
+    top: 808.8px;
+}
+
+#country {
+    box-sizing: border-box;
+    position: absolute;
+    width: 441px;
+    height: 85px;
+    left: 56px;
+    top: 858.8px;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+#city {
+    box-sizing: border-box;
+    position: absolute;
+    width: 441px;
+    height: 85px;
+    left: 524px;
+    top: 858.8px;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+.Marital-Status {
+    position: absolute;
+    width: 439.82px;
+    height: 16.09px;
+    left: 54.7px;
+    top: 983.8px;
+}
+
+#Marital-Status {
+    position: absolute;
+    width: 913.17px;
+    height: 85.17px;
+    left: 51.47px;
+    top: 1030px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.birthdate {
+    position: absolute;
+    width: 219.91px;
+    height: 16.55px;
+    left: 55.52px;
+    top: 1141.68px;
+}
+
+#day {
+    font-size: 25px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 253px;
+    height: 85px;
+    left: 51px;
+    background: #fff;
+    top: 1188.68px;
+    border: 1px solid #CACACA;
+    color: #808080;
+    border-radius: 8px;
+}
+
+#month {
+    box-sizing: border-box;
+    position: absolute;
+    width: 308px;
+    height: 85px;
+    left: 326px;
+    top: 1188.68px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+#year {
+    font-size: 25px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 308px;
+    height: 85px;
+    left: 658px;
+    background: #fff;
+    top: 1188.68px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+    color: #808080;
+}
+
+.Military-Service {
+    position: absolute;
+    width: 219.91px;
+    height: 16.55px;
+    left: 55.52px;
+    top: 1311.68px;
+}
+
+#Military-Service {
+    box-sizing: border-box;
+    position: absolute;
+    width: 913.17px;
+    height: 85.17px;
+    left: 51.49px;
+    top: 1358.56px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+.tagline {
+    position: absolute;
+    width: 219.91px;
+    height: 16.55px;
+    left: 55.52px;
+    top: 1481.8px;
+}
+
+#tagline {
+    box-sizing: border-box;
+    position: absolute;
+    width: 913.17px;
+    height: 85.17px;
+    left: 51.49px;
+    top: 1528.68px;
+    background: #fff;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+    color: #808080;
+}
+
+[for="Show only who"] {
+    position: absolute;
+    width: 439.82px;
+    height: 16.09px;
+    left: 53.17px;
+    top: 1652px;
+}
+
+.personal-info [type="checkbox"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 19.53px;
+    height: 18.51px;
+    top: 33px;
+    left: 255px;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+.personal-info [type="checkbox"]:checked {
+    box-sizing: border-box;
+    position: absolute;
+    color: #FFFFFF;
+    border: 51px solid #FF4402;
+    border-radius: 8px;
+}
+
+.personal-info div label {
+    align-items: center;
+    color: #808080;
+}
+
+[for="Have Driving License"],
+[for="Own a Car"],
+[for="Motorcycle Licanse"] {
+    position: absolute;
+    top: 33px;
+    left: 27px;
+}
+
+.personal-info div label:checked {
+    color: #ffffff;
+}
+
+.personal-info div:checked {
+    background: #FF4402;
+}
+
+.personal-info div {
+    box-sizing: border-box;
+    position: absolute;
+    width: 288px;
+    height: 85px;
+    color: #FfFfFf;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+.hdl {
+    left: 52px;
+    top: 1695px;
+}
+
+.oac {
+    left: 366px;
+    top: 1695px;
+}
+
+.ml {
+    left: 676px;
+    top: 1695px;
+}
+
+[value="Save Changes"] {
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 807px;
+    top: 1811px;
+    color: #fff;
+    background: #FF4402;
+    border-radius: 6px;
 }
