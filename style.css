@@ -4315,3 +4315,156 @@ footer {
     background: #FF4402;
     border-radius: 6px;
 }
+
+.experince {
+    width: 1600px;
+    height: 1554px;
+}
+
+.ex-f {
+    position: absolute;
+    bottom: 0px;
+    top: 1148px;
+    left: 0px;
+}
+
+.experince .pr a {
+    color: #071f54;
+}
+
+.experince .ex h3 a {
+    color: #FF4402;
+}
+
+.experince .pr {
+    background: #FFffff;
+}
+
+.outer-ex {
+    width: 1073px;
+    height: 620px;
+    position: absolute;
+    top: 178px;
+    left: 453px;
+    background: #fff;
+}
+
+.outer-ex .line {
+    width: 1021px;
+    position: absolute;
+    top: 107px;
+    left: 12px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.outer-ex h2 {
+    position: absolute;
+    top: 35px;
+    left: 47px;
+    text-transform: capitalize;
+    color: #071F45;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.outer-ex .wo1,
+.outer-ex .wo2 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 57px;
+    width: 931px;
+    height: 153px;
+    background: #F8F8F8;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+}
+
+.wo1 {
+    top: 154px;
+}
+
+.wo2 {
+    top: 338px;
+}
+
+.outer-ex div img {
+    width: 45.5px;
+    height: 45.5px;
+    position: absolute;
+    top: 52.75px;
+    left: 35.75px;
+}
+
+.outer-ex div h3 {
+    position: absolute;
+    left: 143px;
+    top: 31px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.outer-ex div p,
+.outer-ex div span {
+    position: absolute;
+    width: 434px;
+    height: 26px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: #323131;
+}
+
+.wo1 p,
+.wo2 p {
+    top: 58px;
+    left: 143px;
+}
+
+.wo1 span,
+.wo2 span {
+    top: 97px;
+    left: 143px;
+}
+
+[value="+ Add Work Experience"] {
+    position: absolute;
+    width: 170px;
+    height: 25px;
+    left: 57px;
+    top: 520px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    background: #F8F8F8;
+    text-transform: capitalize;
+    color: #071F45;
+    border: 1px solid #071F45;
+    border-radius: 4px;
+}
+
+[value="+ Add Work Experience"]:hover {
+    color: #ffffff;
+}
+
+.work-experince {
+    width: 1600px;
+    height: 2916px;
+}
+
+.work-f {
+    position: absolute;
+    top: 2485px;
+    left: 0px;
+}
