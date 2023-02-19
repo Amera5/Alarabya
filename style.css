@@ -4458,7 +4458,7 @@ footer {
     color: #ffffff;
 }
 
-.work-experince {
+.work {
     width: 1600px;
     height: 2916px;
 }
@@ -4467,4 +4467,274 @@ footer {
     position: absolute;
     top: 2485px;
     left: 0px;
+}
+
+.add-work {
+    position: absolute;
+    width: 1027px;
+    height: 1492px;
+    left: 463px;
+    top: 786px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.add-work h2 {
+    position: absolute;
+    width: 361px;
+    height: 54px;
+    left: 50px;
+    top: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.form-line {
+    position: absolute;
+    width: 1002px;
+    height: 0px;
+    left: 22px;
+    top: 93px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.x {
+    position: absolute;
+    width: 37px;
+    height: 54px;
+    left: 948px;
+    top: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 50px;
+    border: 0px;
+    background: #fFfFfF;
+    color: #E02020;
+}
+
+.work label {
+    position: absolute;
+    width: 287px;
+    height: 16px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+[for="Company"] {
+    top: 165px;
+    left: 54px;
+}
+
+[for="Website"] {
+    top: 165px;
+    left: 531.53px;
+}
+
+[placeholder="Company name"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 451px;
+    height: 85px;
+    left: 56px;
+    top: 215px;
+    background: white;
+    font-size: 19px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[placeholder="Url"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 453px;
+    height: 85px;
+    left: 521px;
+    top: 215px;
+    background: white;
+    font-size: 19px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="Experience-type"] {
+    left: 54.17px;
+    top: 338.14px;
+}
+
+#Experience-type {
+    box-sizing: border-box;
+    position: absolute;
+    width: 918px;
+    height: 85px;
+    left: 56px;
+    top: 388px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="Job category"] {
+    top: 522px;
+    left: 52.7px;
+}
+
+.work #Job-category {
+    box-sizing: border-box;
+    position: absolute;
+    width: 919px;
+    height: 85px;
+    left: 55px;
+    top: 572px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="Career level"] {
+    top: 695px;
+    left: 52.7px;
+}
+
+#Career-level {
+    box-sizing: border-box;
+    position: absolute;
+    width: 919px;
+    height: 85px;
+    left: 55px;
+    top: 745px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="Starting From"] {
+    top: 840px;
+    left: 54px;
+}
+
+#month1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 217px;
+    height: 85px;
+    left: 56px;
+    top: 930px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+#year1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 217px;
+    height: 85px;
+    left: 290px;
+    top: 930px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="Ending In"] {
+    top: 880px;
+    left: 520.53px;
+}
+
+#month2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 217px;
+    height: 85px;
+    left: 522.53px;
+    top: 930px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+#year2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 217px;
+    height: 85px;
+    left: 756.53px;
+    top: 930px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[for="c-work"] {
+    position: absolute;
+    width: 287px;
+    height: 16px;
+    left: 104px;
+    top: 1057px;
+    color: #8E8E8E;
+}
+
+.c-work {
+    box-sizing: border-box;
+    position: absolute;
+    width: 34px;
+    height: 29px;
+    left: 55px;
+    top: 1048px;
+    border: 1px solid #CACACA;
+    border-radius: 5px;
+}
+
+[for="Description"] {
+    top: 1132px;
+    left: 52.7px;
+}
+
+.Description {
+    box-sizing: border-box;
+    position: absolute;
+    width: 919px;
+    text-align: left;
+    height: 194px;
+    left: 55px;
+    top: 1182px;
+    background: #fff;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+.work [value="cancel"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 116px;
+    height: 46px;
+    left: 730px;
+    top: 1407px;
+    background: #E5E5E5;
+    font-size: 16px;
+    color: #333333;
+    border: 1px solid #CACACA;
+    border-radius: 6px;
+}
+
+.work [value="Save "] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 116px;
+    height: 46px;
+    left: 858px;
+    top: 1407px;
+    background: #FF4402;
+    font-size: 16px;
+    border: 1px solid #CACACA;
+    border-radius: 6px;
+}
+
+.work [value="+ Add Work Experience"] {
+    left: 460px;
+    top: 2321px;
 }
