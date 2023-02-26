@@ -4738,3 +4738,658 @@ footer {
     left: 460px;
     top: 2321px;
 }
+
+.education {
+    width: 1600px;
+    height: 2450px;
+}
+
+.edu-f {
+    bottom: 0px;
+    top: 2060px;
+    left: 0px;
+}
+
+.education .ed a {
+    color: #FF4402;
+}
+
+.education .ed {
+    background: #f8f8f8;
+}
+
+.education .pr a {
+    color: #071f54;
+}
+
+.education .pr {
+    background: white;
+}
+
+.education .side-s {
+    background: white;
+}
+
+.education .section {
+    position: absolute;
+    width: 1037px;
+    left: 453px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.education .section .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 12px;
+    top: 107px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.education section .div {
+    box-sizing: border-box;
+    position: absolute;
+    width: 931px;
+    left: 57px;
+    background: #F8F8F8;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+}
+
+.education section h2 {
+    position: absolute;
+    height: 54px;
+    left: 47px;
+    top: 35px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.education .div h3 {
+    position: absolute;
+    width: 656px;
+    height: 16px;
+    left: 143px;
+    top: 35px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.education .div p {
+    position: absolute;
+    height: 26px;
+    left: 143px;
+    top: 66px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: #323131;
+}
+
+.education .div span {
+    position: absolute;
+    width: 325px;
+    height: 26px;
+    left: 143px;
+    top: 103px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    /* or 87% */
+    display: flex;
+    align-items: flex-end;
+    color: #4D4A4A;
+}
+
+.uni-degree {
+    top: 182px;
+    height: 465px;
+}
+
+.uni-degree .div {
+    height: 153px;
+    top: 154px;
+}
+
+.certificat {
+    top: 695px;
+    height: 534px;
+}
+
+.certificat .div {
+    top: 154px;
+    height: 232px;
+}
+
+[src="images/profile/education2.png"] {
+    width: 54.7px;
+    height: 54.7px;
+    position: absolute;
+    top: 47.17px;
+    left: 35.13px;
+}
+
+[value="+ Add Degree"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    left: 57px;
+    bottom: 74px;
+    color: #071F45;
+    background: #f8f8f8;
+    border: 1px solid #071F45;
+    border-radius: 4px;
+}
+
+.courses {
+    top: 1277px;
+    height: 643px;
+}
+
+.courses .div {
+    top: 154px;
+    height: 232px;
+}
+
+[src="images/profile/certificate.png"] {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 93px;
+    left: 45px;
+}
+
+[src="images/profile/c1.png"] {
+    width: 136px;
+    height: 103px;
+    position: absolute;
+    top: 34px;
+    left: 144px;
+}
+
+[src="images/profile/c2.png"] {
+    width: 136px;
+    height: 103px;
+    position: absolute;
+    top: 34px;
+    left: 294px;
+}
+
+h4 {
+    position: absolute;
+    top: 170px;
+    width: 671px;
+    height: 26px;
+    left: 143px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 31px;
+    text-transform: capitalize;
+    color: #323131;
+}
+
+.education .d1 {
+    position: absolute;
+    left: 143px;
+    height: 153px;
+}
+
+.education .d2 {
+    position: absolute;
+    left: 143px;
+    top: 331px;
+    height: 153px;
+}
+
+.v-line {
+    position: absolute;
+    height: 167px;
+    width: 0px;
+    left: 124px;
+    top: 33px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.h-line {
+    position: absolute;
+    width: 762px;
+    height: 0px;
+    left: 143px;
+    top: 148px;
+    border: 0.754926px solid #E4E4EF;
+}
+
+[value="+ Add Certificate"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    left: 57px;
+    bottom: 70px;
+    color: #071F45;
+    background: #f8f8f8;
+    border: 1px solid #071F45;
+    border-radius: 4px;
+}
+
+[value="+ Add Training"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    left: 57px;
+    bottom: 77px;
+    color: #071F45;
+    background: #f8f8f8;
+    border: 1px solid #071F45;
+    border-radius: 4px;
+}
+
+.courses a {
+    position: absolute;
+    width: 173px;
+    height: 26px;
+    left: 829px;
+    top: 487px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FF4402;
+}
+
+.skill {
+    width: 1600px;
+    height: 1564px;
+    background: #FFFFFF;
+}
+
+.sk-f {
+    position: absolute;
+    left: 0px;
+    top: 1148px;
+}
+
+.skill .side-s .sk a {
+    color: #FF4402;
+}
+
+.skill .sk {
+    background: #f8f8f8;
+}
+
+.skill .side-s .pr a {
+    color: #071F45;
+}
+
+.skill .side-s .ed,
+.skill .side-s .pr {
+    background: white;
+}
+
+.main-sec {
+    position: absolute;
+    width: 1037px;
+    height: 483px;
+    left: 453px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.skill .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 12px;
+    top: 132px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.skill h2 {
+    position: absolute;
+    width: 116px;
+    height: 54px;
+    left: 45px;
+    top: 17px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    /* or 143% */
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.skill p {
+    position: absolute;
+    width: 880px;
+    height: 53px;
+    left: 54px;
+    top: 73px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    /* or 87% */
+    display: flex;
+    align-items: flex-end;
+    color: #323131;
+}
+
+.skill p a {
+    color: #FF4402;
+}
+
+[value="+ Add skills"] {
+    position: absolute;
+    width: 143.82px;
+    height: 20.09px;
+    left: 57px;
+    top: 163px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 12px;
+    background: #fff;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #071F45;
+    border: 0px;
+}
+
+[value="+ Add skills"]:hover {
+    background: white;
+}
+
+[placeholder="Skill Name"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 918px;
+    height: 85px;
+    left: 58.53px;
+    font-size: 19px;
+    background: #F2F2F2;
+    top: 211px;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+}
+
+[placeholder="Skill Name"]:hover {
+    border: 2px;
+    background: #F2F2F2;
+    color: #333333;
+}
+
+.skill .c {
+    background: #F8F8F8;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+    position: absolute;
+    top: 330px;
+}
+
+.Adobe-Photoshop {
+    box-sizing: border-box;
+    width: 259px;
+    height: 69px;
+    left: 57px;
+}
+
+.Adobe-illustrator {
+    box-sizing: border-box;
+    width: 259px;
+    height: 69px;
+    left: 331px;
+}
+
+.sketch {
+    box-sizing: border-box;
+    width: 147px;
+    height: 69px;
+    left: 605px;
+}
+
+.Adobe-xd {
+    box-sizing: border-box;
+    width: 174px;
+    height: 69px;
+    left: 767px;
+}
+
+.skill .c h3 {
+    position: absolute;
+    width: 212px;
+    height: 16px;
+    left: 10px;
+    top: 31px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.skill .c input {
+    position: absolute;
+    width: 37px;
+    height: 54px;
+    right: 3px;
+    top: 12px;
+    border: 0px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    background: #f8f8f8;
+    color: #C8C8C8;
+}
+
+.upload-cv {
+    width: 1600px;
+    height: 1564px;
+}
+
+.up-f {
+    position: absolute;
+    left: 0px;
+    top: 1148px;
+}
+
+.upload-cv .side-s {
+    background: white;
+}
+
+.upload-cv .side-s .pr a {
+    color: #071F45;
+}
+
+.upload-cv .side-s .pr {
+    background: white;
+}
+
+.upload-cv .side-s .upc a {
+    color: #FF4402;
+}
+
+.upload-cv .main-sec {
+    position: absolute;
+    width: 1037px;
+    height: 651px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.upload-cv .main-sec img {
+    position: absolute;
+    width: 544px;
+    height: 312px;
+    left: 247px;
+    top: 105px;
+}
+
+.upload-cv .main-sec p {
+    position: absolute;
+    width: 502px;
+    height: 137px;
+    left: 271px;
+    top: 500px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 41px;
+    display: flex;
+    align-items: flex-end;
+    color: #323131;
+}
+
+.upload-cv .main-sec [value="Upload Your CV"] {
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 441px;
+    top: 464px;
+    background: #FF4402;
+    color: white;
+    border-radius: 6px;
+}
+
+.update .main-sec {
+    position: absolute;
+    width: 1037px;
+    height: 424px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.update .main-sec .inner {
+    box-sizing: border-box;
+    position: absolute;
+    width: 931px;
+    height: 153px;
+    left: 56px;
+    top: 161px;
+    background: #F8F8F8;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+}
+
+.update .main-sec .inner img {
+    position: absolute;
+    width: 69px;
+    height: 83px;
+    left: 28px;
+    top: 35px;
+}
+
+.update .main-sec .inner h3 {
+    position: absolute;
+    width: 541px;
+    height: 16px;
+    left: 143px;
+    top: 38px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.update .main-sec h2 {
+    position: absolute;
+    width: 184px;
+    height: 54px;
+    left: 44px;
+    top: 41px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.update .main-sec .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 9px;
+    top: 113px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.update .main-sec .inner p {
+    position: absolute;
+    width: 289px;
+    height: 26px;
+    left: 143px;
+    top: 74px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: #4D4A4A;
+}
+
+.update .main-sec .inner .ed1 {
+    background: url(images/profile/update.png);
+}
+
+.update .main-sec .inner .ed1:hover {
+    background-position: center;
+    background-size: 41px, 41px;
+}
+
+[value="Update CV"] {
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 826px;
+    top: 350px;
+    background: #FF4402;
+    color: white;
+    border-radius: 6px;
+}
