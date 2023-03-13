@@ -5393,3 +5393,427 @@ h4 {
     color: white;
     border-radius: 6px;
 }
+
+.your-static {
+    width: 1600px;
+    height: 1564px;
+}
+
+.your-f {
+    position: absolute;
+    top: 1148px;
+}
+
+.your-static .side-s .pr a {
+    color: #071F45;
+}
+
+.your-static .side-s .pr {
+    background: white;
+}
+
+.your-static .side-s .ys {
+    background: #F8F8F8;
+}
+
+.your-static .side-s .ys a {
+    color: #FF4402;
+}
+
+.your-static .inner {
+    position: absolute;
+    width: 1037px;
+    height: 309px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.your-static .inner h2 {
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 38px;
+    top: 30px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.your-static .inner .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 7px;
+    top: 107px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.your-static .inner .v-line {
+    position: absolute;
+    width: 0px;
+    height: 170px;
+    left: 519px;
+    top: 120px;
+    /* Border */
+    border: 0.754926px solid #E4E4EF;
+}
+
+.your-static h3 {
+    position: absolute;
+    width: 203px;
+    height: 20px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 20px;
+    color: #808080;
+}
+
+.your-static h4 {
+    position: absolute;
+    width: 36px;
+    height: 16px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+}
+
+.your-static .inner img {
+    position: absolute;
+    width: 16px;
+    height: 11px;
+    border-radius: 1px;
+}
+
+.h31 {
+    top: 142px;
+    left: 58px;
+}
+
+.h41 {
+    top: 144px;
+    left: 269px;
+    color: #FF4402;
+}
+
+.your-static .i1 {
+    top: 144px;
+    left: 38px;
+}
+
+.h32 {
+    top: 195px;
+    left: 60px;
+}
+
+.h42 {
+    top: 202px;
+    left: 251px;
+    color: #333333;
+}
+
+.your-static .i2 {
+    top: 197px;
+    left: 38px;
+}
+
+.h33 {
+    top: 252px;
+    left: 60px;
+}
+
+.h43 {
+    top: 258px;
+    left: 202px;
+    color: #FF4402;
+}
+
+.your-static .i3 {
+    top: 254px;
+    left: 38px;
+}
+
+.h34 {
+    top: 143px;
+    left: 571px;
+}
+
+.h44 {
+    top: 149px;
+    left: 803px;
+    color: #FF4402;
+}
+
+.your-static .i4 {
+    top: 144px;
+    left: 551px;
+}
+
+.h35 {
+    top: 195px;
+    left: 571px;
+}
+
+.h45 {
+    top: 201px;
+    left: 803px;
+    color: #333333;
+}
+
+.your-static .i5 {
+    top: 197px;
+    left: 551px;
+}
+
+.static {
+    width: 1600px;
+    height: 1564px;
+}
+
+.static-f {
+    top: 1148px;
+}
+
+.static .inner {
+    position: absolute;
+    width: 1037px;
+    height: 429px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.static .side-s {
+    background: white;
+}
+
+.static .side-s .pr {
+    background: white;
+}
+
+.static .side-s .pr a {
+    color: #071f54;
+}
+
+.static h2 {
+    position: absolute;
+    width: 478px;
+    height: 54px;
+    left: 29px;
+    top: 27px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.static h2 a {
+    color: #FF4402;
+}
+
+.static .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 7px;
+    top: 107px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.static .row1 {
+    position: absolute;
+    width: 988px;
+    height: 69px;
+    left: 25px;
+    top: 143px;
+    background: #FF4402;
+    color: white;
+}
+
+.row1 h3,
+.row2 h3,
+.row3 h3,
+.row4 h3 {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    font-feature-settings: 'case' on;
+}
+
+.c1 {
+    top: 27px;
+    left: 26px;
+}
+
+.c2 {
+    top: 27px;
+    left: 67px;
+}
+
+.c3 {
+    top: 27px;
+    left: 217px;
+}
+
+.c4 {
+    top: 27px;
+    left: 422px;
+}
+
+.c5 {
+    top: 27px;
+    left: 605px;
+}
+
+.c6 {
+    top: 27px;
+    left: 784px;
+}
+
+.c7 {
+    top: 27px;
+    left: 909px;
+}
+
+.static .row2 {
+    position: absolute;
+    width: 988px;
+    height: 69px;
+    left: 25px;
+    top: 212px;
+    background: #ffffff;
+    color: #071F45;
+}
+
+.static .row3 {
+    position: absolute;
+    width: 988px;
+    height: 69px;
+    left: 25px;
+    top: 282px;
+    background: #F8F8F8;
+    color: #071F45;
+}
+
+.static .row4 {
+    position: absolute;
+    width: 988px;
+    height: 69px;
+    left: 25px;
+    color: #071F45;
+    top: 350px;
+    background: #FFffff;
+}
+
+.row2 [src="images/profile/clogo1.png"] {
+    position: absolute;
+    width: 47.76px;
+    height: 41.48px;
+    left: 14px;
+    top: 9.74px;
+    border-radius: 50%;
+}
+
+.row4 [src="images/profile/clogo1.png"] {
+    position: absolute;
+    width: 47.76px;
+    height: 41.48px;
+    left: 14px;
+    top: 9.74px;
+    border-radius: 50%;
+}
+
+.row3 [src="images/profile/clogo2.png"] {
+    position: absolute;
+    width: 47.76px;
+    height: 41.48px;
+    left: 14px;
+    top: 9.74px;
+    border-radius: 50%;
+}
+
+[src="images/profile/viewed.png"] {
+    width: 19px;
+    position: absolute;
+    height: 14px;
+    top: 26px;
+}
+
+.static .ed1 {
+    top: 20px;
+    right: 40px;
+    width: 30px;
+    height: 30px;
+}
+
+.static .del {
+    top: 20px;
+    left: 940px;
+    width: 30px;
+    height: 30px;
+}
+
+.row2 span {
+    position: absolute;
+    width: 72px;
+    height: 29px;
+    left: 790px;
+    top: 20px;
+    background: #D3E2FF;
+    border-radius: 310px;
+}
+
+.row2 .c6 h3 {
+    top: 9px;
+    left: 11px;
+}
+
+.row3 span {
+    position: absolute;
+    width: 72px;
+    height: 29px;
+    left: 790px;
+    top: 20px;
+    background: rgba(191, 7, 7, 0.27);
+    border-radius: 310px;
+}
+
+.row3 .c6 h3 {
+    top: 9px;
+    left: 13px;
+}
+
+.row4 span {
+    position: absolute;
+    width: 72px;
+    height: 29px;
+    left: 790px;
+    top: 20px;
+    background: #FFF3C3;
+    border-radius: 310px;
+}
+
+.row4 .c6 h3 {
+    top: 9px;
+    left: 10px;
+}
