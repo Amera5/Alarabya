@@ -5817,3 +5817,731 @@ h4 {
     top: 9px;
     left: 10px;
 }
+
+.saved-jobs .inner {
+    position: absolute;
+    width: 1037px;
+    height: 708px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.saved-jobs h2 {
+    position: absolute;
+    text-transform: capitalize;
+    top: 27px;
+    left: 22px;
+    position: absolute;
+    width: 201px;
+    height: 54px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    color: #071F45;
+}
+
+.saved-jobs [src="images/profile/clogo1.png"] {
+    position: absolute;
+    left: 28px;
+    top: 435px;
+    width: 60px;
+    height: 60px;
+}
+
+.saved-jobs [src="images/profile/clogo3.png"] {
+    position: absolute;
+    left: 28px;
+    top: 137px;
+    width: 60px;
+    height: 60px;
+}
+
+.ux {
+    color: #071F45;
+    font-size: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    position: absolute;
+    top: 200px;
+    left: 29px;
+}
+
+.tf {
+    position: absolute;
+    top: 156px;
+    left: 101px;
+    color: #3F3F46;
+    font-size: 14px;
+}
+
+.saved-jobs .c {
+    position: absolute;
+    top: 156px;
+    left: 202px;
+    color: #4F5665;
+    font-size: 14px;
+}
+
+.saved-jobs .inner .p {
+    position: absolute;
+    width: 669.92px;
+    height: 39.08px;
+    left: 28.6px;
+    top: 254.13px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #71717A;
+}
+
+.saved-jobs .f1 {
+    position: absolute;
+    width: 99.7px;
+    height: 27.39px;
+    left: 28.81px;
+    top: 336.61px;
+    background: #EBEDF0;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 10px;
+    color: #071F45;
+}
+
+.line5 {
+    position: absolute;
+    width: 1086.77px;
+    height: 0px;
+    left: -16.94px;
+    top: 404.95px;
+    border: 1px solid #E4E4E7;
+}
+
+.ag {
+    position: absolute;
+    width: 212.14px;
+    height: 39.08px;
+    left: 104.83px;
+    top: 453.56px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    color: #3F3F46;
+}
+
+.saved-jobs .s {
+    position: absolute;
+    width: 123.38px;
+    height: 32.4px;
+    left: 202px;
+    top: 450.27px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    text-transform: capitalize;
+    color: #4F5665;
+}
+
+.sales {
+    position: absolute;
+    width: 313px;
+    height: 50px;
+    left: 29px;
+    top: 498px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.saved-jobs .co {
+    position: absolute;
+    width: 909.98px;
+    height: 78.16px;
+    left: 28.6px;
+    top: 556.49px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #71717A;
+}
+
+.saved-jobs .f2 {
+    position: absolute;
+    width: 89.7px;
+    height: 27.39px;
+    left: 28.81px;
+    top: 634.47px;
+    padding: 10px;
+    background: #EBEDF0;
+    border-radius: 3px;
+    text-align: center;
+    color: #071F45;
+}
+
+.saved-jobs .woh {
+    position: absolute;
+    width: 152.02px;
+    height: 27.39px;
+    left: 144.81px;
+    top: 634.47px;
+    padding: 10px;
+    background: #EBEDF0;
+    border-radius: 3px;
+    text-align: center;
+    color: #071F45;
+}
+
+.saved-jobs .post {
+    position: absolute;
+    width: 153.29px;
+    height: 32.4px;
+    left: 53.47px;
+    top: 290.5px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #4F5665;
+}
+
+.saved-jobs .po {
+    position: absolute;
+    width: 153.29px;
+    height: 32.4px;
+    left: 53.47px;
+    top: 588.5px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #4F5665;
+}
+
+.saved-jobs [alt="date"] {
+    position: absolute;
+    width: 24.93px;
+    height: 24.93px;
+    left: 20.81px;
+    top: 294.24px;
+}
+
+.saved-jobs [alt="calender"] {
+    position: absolute;
+    width: 24.93px;
+    height: 24.93px;
+    left: 20.81px;
+    top: 592.24px;
+}
+
+.saved-jobs .del {
+    position: absolute;
+    top: 134px;
+    width: 25.98px;
+    height: 25.98px;
+    background-size: 22px, 22px;
+}
+
+.saved-jobs .del:hover {
+    width: 30px;
+    height: 30px;
+    background-size: 30px, 30px;
+}
+
+.saved-jobs .de2 {
+    top: 437px;
+}
+
+.social {
+    width: 1600px;
+    height: 2018px;
+}
+
+.social-f {
+    left: 0px;
+    top: 1605px;
+}
+
+.social .inner {
+    position: absolute;
+    width: 1037px;
+    height: 1278px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.social .inner h2 {
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 30px;
+    top: 30px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.social .inner .line {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 7px;
+    top: 107px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.social .side-s .pr {
+    background: white;
+}
+
+.social .side-s .pr a {
+    color: #071F45;
+}
+
+.social .side-s .so {
+    background: #f8f8f8;
+}
+
+.social .side-s .so a {
+    color: #FF4402;
+}
+
+.social .inner input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 686px;
+    height: 70px;
+    left: 300px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #808080;
+    border: 1px solid #CACACA;
+    border-radius: 8px;
+    background: white;
+}
+
+.social .inner img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 45px;
+}
+
+.social .inner label {
+    position: absolute;
+    width: 134px;
+    height: 16px;
+    left: 94px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    font-feature-settings: 'case' on;
+    color: #333333;
+}
+
+[for="linkedin"] {
+    top: 176px;
+}
+
+#linkedin {
+    top: 149px;
+}
+
+[src="images/profile/linkedin.png"] {
+    top: 164px;
+}
+
+[for="facebook"] {
+    top: 287px;
+}
+
+#facebook {
+    top: 260px;
+}
+
+[src="images/profile/facebook.png"] {
+    top: 284px;
+}
+
+[for="behance"] {
+    top: 398px;
+}
+
+#behance {
+    top: 371px;
+}
+
+[src="images/profile/behance.png"] {
+    top: 386px;
+}
+
+[for="twitter"] {
+    top: 509px;
+}
+
+#twitter {
+    top: 482px;
+}
+
+[src="images/profile/twitter.png"] {
+    top: 507px;
+}
+
+[for="instagram"] {
+    top: 620px;
+}
+
+#instagram {
+    top: 593px;
+}
+
+[src="images/profile/Instagram.png"] {
+    top: 608px;
+}
+
+[for="github"] {
+    top: 731px;
+}
+
+#github {
+    top: 704px;
+}
+
+[src="images/profile/GitHub.png"] {
+    top: 719px;
+}
+
+[for="youtube"] {
+    top: 842px;
+}
+
+#youtube {
+    top: 815px;
+}
+
+[src="images/profile/YouTube.png"] {
+    top: 830px;
+}
+
+[for="overflow"] {
+    top: 953px;
+    font-size: 16px;
+    width: 198px;
+}
+
+#overflow {
+    top: 926px;
+}
+
+[src="images/profile/stack overflow.png"] {
+    top: 941px;
+}
+
+[for="blog"] {
+    top: 1055px;
+}
+
+#blog {
+    top: 1037px;
+}
+
+[src="images/profile/blog.png"] {
+    top: 1045px;
+}
+
+[for="web"] {
+    top: 1175px;
+}
+
+#web {
+    top: 1148px;
+}
+
+[src="images/profile/website.png"] {
+    top: 1163px;
+}
+
+.back {
+    width: 1600px;
+    height: 1900px;
+}
+
+.bac {
+    top: 1502px;
+}
+
+.back .inner {
+    position: absolute;
+    width: 1037px;
+    height: 1222px;
+    left: 461px;
+    top: 178px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.back .side-s {
+    background: white;
+}
+
+.back .side-s .pr {
+    background: white;
+}
+
+.back .side-s .pr a {
+    color: #071F45;
+}
+
+.back .side-s .pac {
+    background: #f8f8f8;
+}
+
+.back .side-s .pac a {
+    color: #FF4402;
+}
+
+.back .inner h2 {
+    position: absolute;
+    width: 146px;
+    height: 54px;
+    left: 38px;
+    top: 30px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.back .inner .lin {
+    position: absolute;
+    width: 1021px;
+    height: 0px;
+    left: 7px;
+    top: 107px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.back .inner section {
+    box-sizing: border-box;
+    position: absolute;
+    width: 423px;
+    height: 444px;
+    border: 1px solid;
+    background: white;
+    border-radius: 8px
+}
+
+.back .inner section h3 {
+    position: absolute;
+    width: 74.64px;
+    height: 27.85px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 41px;
+    text-transform: capitalize;
+}
+
+.back .inner section h4 {
+    position: absolute;
+    top: 133px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.back .inner section ul {
+    position: absolute;
+    top: 180px;
+    left: 66px;
+    list-style-image: url(images/profile/correct.png);
+    list-style-type: none;
+    font-family: 'Rubik';
+    font-style: normal;
+    color: #808080;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+}
+
+.back .inner section [type="button"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 293px;
+    height: 47.35px;
+    left: 63px;
+    top: 371.4px;
+    border: 1px solid;
+    border-radius: 4px;
+    /* color: #000; */
+}
+
+.free {
+    top: 178px;
+    left: 71px;
+    border: #071f54;
+}
+
+.free h3 {
+    top: 33px;
+    left: 176px;
+    color: #071f54;
+}
+
+.free .line {
+    position: absolute;
+    top: 85.53px;
+    left: 20.45px;
+    border: 0.754926px solid #071F45;
+    width: 376.56px;
+    height: 0px;
+}
+
+.free [type="button"] {
+    color: #071f54;
+    border: #071f54;
+    background: white;
+    background: url(images/profile/free.png);
+    background-position-x: 94px, 179px;
+    background-position-y: 11px;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+}
+
+.silver {
+    top: 178px;
+    left: 540px;
+    border: #7C7982;
+}
+
+.silver h3 {
+    top: 33px;
+    left: 176px;
+    color: #7C7982;
+}
+
+.silver .line {
+    position: absolute;
+    top: 85.53px;
+    left: 20.45px;
+    border: 0.754926px solid #7C7982;
+    width: 373.22px;
+    height: 0px;
+}
+
+.silver [type="button"] {
+    color: #7C7982;
+    border: #7C7982;
+    background: white;
+    background: url(images/profile/silver.png);
+    background-position-x: 94px, 179px;
+    background-position-y: 11px;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+}
+
+.gold {
+    top: 668px;
+    left: 71px;
+    border: #FFB300;
+}
+
+.gold h3 {
+    top: 33px;
+    left: 176px;
+    color: #FFB300;
+}
+
+.gold .line {
+    position: absolute;
+    top: 85.53px;
+    left: 20.45px;
+    border: 0.754926px solid #FFB300;
+    width: 376.56px;
+    height: 0px;
+}
+
+.gold [type="button"] {
+    color: #FFB300;
+    border: #FFB300;
+    background: white;
+    background: url(images/profile/gold.png);
+    background-position-x: 94px, 179px;
+    background-position-y: 11px;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+}
+
+.Platinum {
+    top: 668px;
+    left: 540px;
+    border: #FF4402;
+}
+
+.Platinum .line {
+    position: absolute;
+    top: 85.53px;
+    left: 20.45px;
+    border: 0.754926px solid #FF4402;
+    width: 376.56px;
+    height: 0px;
+}
+
+.Platinum h3 {
+    top: 33px;
+    left: 176px;
+    color: #FF4402;
+}
+
+.Platinum [type="button"] {
+    color: #FF4402;
+    border: #FF4402;
+    background: url(images/profile/platinum.png);
+    background-position-x: 94px, 179px;
+    background-position-y: 11px;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+}
