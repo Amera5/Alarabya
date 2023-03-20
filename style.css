@@ -6545,3 +6545,464 @@ h4 {
     background-repeat: no-repeat;
     background-size: 20px 20px;
 }
+
+.contact {
+    width: 1600px;
+    height: 1806px;
+    background: #ffffff;
+}
+
+.contact footer {
+    left: 0px;
+    top: 1402px;
+}
+
+.contact main {
+    position: absolute;
+    width: 1609px;
+    height: 1202px;
+    left: -5px;
+    top: 142px;
+    background: #F8F8F8;
+}
+
+.contact section {
+    position: absolute;
+    top: 47px;
+    left: 118px;
+    background: #FFFFFF;
+    Width: 1380px;
+    Height: 1108px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.contact aside {
+    position: absolute;
+    top: 37px;
+    left: 33px;
+    width: 591px;
+    height: 1033px;
+    background: #F8F8F8;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+}
+
+.contact aside img {
+    position: absolute;
+    width: 515px;
+    height: 449px;
+    left: 38px;
+    top: 39px;
+}
+
+.contact aside h2 {
+    position: absolute;
+    width: 421px;
+    height: 78px;
+    left: 52px;
+    top: 542px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 31px;
+    line-height: 37px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.contact aside h2 a {
+    color: #FF4402;
+}
+
+.contact aside ul {
+    list-style-type: none;
+    list-style-image: url(images/aboutus/list.png);
+    position: absolute;
+    left: 54px;
+    top: 653px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 135.5%;
+    color: #2F2F2F;
+}
+
+.contact main section .h2 {
+    position: absolute;
+    width: 184px;
+    height: 33px;
+    left: 660px;
+    top: 35px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.contact main section p {
+    position: absolute;
+    left: 659px;
+    top: 84px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #2F2F2F;
+}
+
+.contact main section label {
+    position: absolute;
+    width: 328px;
+    height: 12px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.contact [for="name"] {
+    width: 328px;
+    height: 12px;
+    left: 662px;
+    top: 148px;
+}
+
+.contact [for="Email"] {
+    top: 148px;
+    left: 1014px;
+}
+
+.contact #name {
+    position: absolute;
+    width: 327px;
+    height: 79px;
+    left: 662px;
+    top: 185px;
+    color: #808080;
+    font-size: 14px;
+    background: #F2F2F2;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.contact #Email {
+    position: absolute;
+    width: 327px;
+    height: 79px;
+    left: 1013px;
+    top: 185px;
+    color: #808080;
+    font-size: 14px;
+    background: #F2F2F2;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.contact [for="Your-Comment"] {
+    top: 302px;
+    left: 662px;
+}
+
+.contact #Your-Comment {
+    position: absolute;
+    width: 681px;
+    height: 174px;
+    left: 659px;
+    top: 337px;
+    color: #808080;
+    font-size: 14px;
+    background: #F2F2F2;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.contact [value="send"] {
+    position: absolute;
+    width: 671px;
+    height: 79.17px;
+    left: 664px;
+    top: 539px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 135.5%;
+    background: #FF6048;
+    border-radius: 8px;
+}
+
+[src="images/aboutus/map.png"] {
+    position: absolute;
+    width: 672px;
+    height: 408px;
+    left: 660px;
+    top: 665px;
+    opacity: 0.98;
+}
+
+.about {
+    width: 1600px;
+    height: 1629px;
+    background: white;
+}
+
+.about footer {
+    left: 0px;
+    top: 1192px;
+}
+
+.about .main {
+    position: absolute;
+    width: 1609px;
+    height: 996px;
+    left: -4px;
+    top: 137px;
+    background: #F8F8F8;
+}
+
+.about .inner {
+    position: absolute;
+    width: 1380px;
+    height: 900px;
+    left: 113px;
+    top: 36px;
+    background: white;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.about .main section h2 {
+    position: absolute;
+    width: 146px;
+    height: 33px;
+    left: 664px;
+    top: 36px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.about .line {
+    position: absolute;
+    width: 1337px;
+    height: 0px;
+    left: 22px;
+    top: 112px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.about .h {
+    position: absolute;
+    height: 66.01px;
+    left: 116px;
+    top: 181.34px;
+    Width: 308px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 65px;
+    color: #FF4402;
+}
+
+.about .p {
+    position: absolute;
+    left: 119px;
+    top: 268.6px;
+    Width: 568px;
+    Height: 159.44px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2F2F2F;
+}
+
+.about .h3 {
+    position: absolute;
+    height: 66.01px;
+    left: 702px;
+    top: 573.1px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 65px;
+    color: #FF4402;
+}
+
+.about .p1 {
+    position: absolute;
+    left: 705px;
+    top: 657.56px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2F2F2F;
+}
+
+[src="images/aboutus/about.png"] {
+    position: absolute;
+    width: 316px;
+    height: 320.91px;
+    left: 930px;
+    top: 164px;
+}
+
+[src="images/aboutus/aboutus.png"] {
+    position: absolute;
+    width: 316px;
+    height: 316px;
+    left: 120px;
+    top: 554px;
+}
+
+.about-us {
+    width: 1600px;
+    height: 2101px;
+    background: white;
+}
+
+.about-us footer {
+    left: 0px;
+    top: 1702px;
+}
+
+.about-us main {
+    position: absolute;
+    width: 1609px;
+    height: 1508px;
+    left: -4px;
+    top: 137px;
+    background: #F8F8F8;
+}
+
+.about-us .inner {
+    position: absolute;
+    left: 113px;
+    width: 1380px;
+    top: 36px;
+    height: 1398px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.about-us h2 {
+    width: 146px;
+    height: 33px;
+    left: 664px;
+    top: 36px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+.about-us .line {
+    width: 146px;
+    height: 33px;
+    left: 22px;
+    top: 112px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: capitalize;
+    color: #071F45;
+}
+
+[src="images/aboutus/our mission.png"] {
+    position: absolute;
+    width: 663px;
+    height: 498.15px;
+    left: 43px;
+    top: 189px;
+}
+
+.about-us .h {
+    position: absolute;
+    width: 278px;
+    height: 52px;
+    left: 758px;
+    top: 218px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 52px;
+    letter-spacing: 0.05em;
+    color: #FF4402;
+}
+
+.about-us .p {
+    position: absolute;
+    width: 570px;
+    height: 390px;
+    left: 758px;
+    top: 306px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.about-us .h3 {
+    position: absolute;
+    width: 244px;
+    height: 52px;
+    left: 74px;
+    top: 844.15px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 52px;
+    letter-spacing: 0.05em;
+    color: #FF4402;
+}
+
+.about-us .p1 {
+    position: absolute;
+    width: 570px;
+    height: 300px;
+    left: 74px;
+    top: 932.15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+[src="images/aboutus/our version.png"] {
+    position: absolute;
+    width: 661px;
+    height: 426px;
+    left: 690px;
+    top: 836px;
+}
