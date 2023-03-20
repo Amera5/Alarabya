@@ -6904,6 +6904,7 @@ h4 {
 }
 
 .about-us h2 {
+    position: absolute;
     width: 146px;
     height: 33px;
     left: 664px;
@@ -6918,17 +6919,12 @@ h4 {
 }
 
 .about-us .line {
-    width: 146px;
-    height: 33px;
+    position: absolute;
+    width: 1337px;
+    height: 0px;
     left: 22px;
     top: 112px;
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 32px;
-    line-height: 38px;
-    text-transform: capitalize;
-    color: #071F45;
+    border: 0.754926px solid #DDDDE6;
 }
 
 [src="images/aboutus/our mission.png"] {
