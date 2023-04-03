@@ -7002,3 +7002,1124 @@ h4 {
     left: 690px;
     top: 836px;
 }
+
+.workshop {
+    width: 1600px;
+    height: 3517px;
+    padding: 0px;
+}
+
+.workshop footer {
+    top: 3068px;
+    bottom: 0px;
+}
+
+.workshop .main {
+    position: absolute;
+    width: 1609px;
+    height: 2912px;
+    left: -4px;
+    top: 94px;
+    background: #F8F8F8;
+}
+
+.workshop .upper {
+    position: absolute;
+    width: 1369.95px;
+    height: 288.97px;
+    left: 119px;
+    top: 61px;
+    background: #E4E4EF;
+    border-radius: 20px;
+}
+
+.workshop .upper img {
+    position: absolute;
+    width: 423px;
+    height: 209px;
+    left: 892px;
+    top: 40px;
+}
+
+.workshop .upper h2 {
+    position: absolute;
+    width: 770px;
+    height: 107px;
+    left: 44px;
+    top: 75px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 54px;
+    /* or 146% */
+    color: #0A033C;
+}
+
+.workshop aside {
+    position: absolute;
+    left: 117px;
+    top: 401px;
+    width: 446px;
+    height: 771px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.workshop aside h3 {
+    position: absolute;
+    width: 163px;
+    height: 54px;
+    left: 16px;
+    top: 8px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.workshop aside form [type="radio"] {
+    position: absolute;
+    width: 24.61px;
+    height: 24.61px;
+    left: 26px;
+}
+
+.workshop aside form label {
+    position: absolute;
+    height: 32.3px;
+    left: 62.91px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    color: #71717A;
+}
+
+.workshop aside form [for="All-Courses"] {
+    top: 80px;
+}
+
+.workshop aside form #All-Courses {
+    top: 79px;
+}
+
+.workshop aside form [for="Free-courses"] {
+    top: 130.75px;
+}
+
+.workshop aside form #Free-courses {
+    top: 130px;
+}
+
+.workshop aside form [for="Online-courses"] {
+    top: 181.5px;
+}
+
+.workshop aside form #Online-courses {
+    top: 181px;
+}
+
+.workshop aside form [for="Offline-courses"] {
+    top: 232.25px;
+}
+
+.workshop aside form #Offline-courses {
+    top: 232px;
+}
+
+.workshop [value="Clear Filte"] {
+    position: absolute;
+    width: 99px;
+    height: 26px;
+    left: 322px;
+    top: 18px;
+    background: white;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    border: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    color: #F53838;
+}
+
+.workshop aside .line {
+    position: absolute;
+    width: 416px;
+    height: 0px;
+    left: 15px;
+    top: 62px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.workshop aside .location {
+    box-sizing: border-box;
+    position: absolute;
+    left: 26px;
+    top: 298px;
+    width: 394px;
+    height: 264px;
+    background: #FFFFFF;
+    border: 1px solid #D4D4D8;
+    border-radius: 4px;
+}
+
+.workshop aside #country {
+    box-sizing: border-box;
+    position: absolute;
+    left: 21px;
+    top: 80px;
+    width: 348px;
+    height: 62px;
+    background: #FFFFFF;
+    border: 1px solid #D4D4D8;
+    border-radius: 4px;
+}
+
+.workshop aside #city {
+    box-sizing: border-box;
+    position: absolute;
+    left: 22px;
+    top: 160px;
+    width: 348px;
+    height: 62px;
+    background: #FFFFFF;
+    border: 1px solid #D4D4D8;
+    border-radius: 4px;
+}
+
+.workshop aside section h3 {
+    position: absolute;
+    width: 79px;
+    height: 37px;
+    left: 21px;
+    top: 10px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #071F45;
+}
+
+.workshop aside #location {
+    position: absolute;
+    width: 79px;
+    height: 37px;
+    left: 21px;
+    top: 10px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #071F45;
+}
+
+.workshop aside .cat {
+    position: absolute;
+    left: 26px;
+    top: 583px;
+    width: 392.16px;
+    height: 61.51px;
+    background: #FFFFFF;
+    border: 1px solid #D4D4D8;
+    border-radius: 4px;
+}
+
+.workshop aside .pos {
+    position: absolute;
+    left: 26px;
+    top: 666px;
+    width: 392.16px;
+    height: 61.51px;
+    background: #FFFFFF;
+    border: 1px solid #D4D4D8;
+    border-radius: 4px;
+}
+
+.workshop .se-icon {
+    position: absolute;
+    left: 585px;
+    top: 401px;
+    width: 907px;
+    height: 97px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.workshop .se-icon #ser {
+    position: absolute;
+    width: 773px;
+    height: 60px;
+    left: 26px;
+    top: 18px;
+    padding-left: 10px;
+    background: #EDEDED;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.workshop .se-icon [type="button"] {
+    position: absolute;
+    left: 814px;
+    top: 18px;
+    width: 70px;
+    height: 60px;
+    background: url(images/search.jfif);
+    background-size: 70px, 60px;
+    background-repeat: no-repeat;
+}
+
+.workshop .courses {
+    position: absolute;
+    left: 585px;
+    top: 520px;
+    width: 907px;
+    height: 2224px;
+    background: white;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+}
+
+.workshop .courses h2 {
+    position: absolute;
+    width: 456px;
+    height: 54px;
+    left: 24px;
+    top: 17px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #071f54;
+}
+
+.workshop .courses h2 a {
+    position: absolute;
+    font-size: 23px;
+    top: 10px;
+    left: -40px;
+    color: #FF4402;
+}
+
+.workshop .sor {
+    position: absolute;
+    height: 21px;
+    top: 30px;
+    left: 756px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    display: flex;
+    color: #71717A;
+}
+
+.workshop #sort {
+    position: absolute;
+    height: 21px;
+    top: 30px;
+    left: 806px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    border: 0px;
+    display: flex;
+    color: #071f54;
+}
+
+.workshop .courses section {
+    position: absolute;
+    height: 227px;
+    width: 907px;
+    background: #ffffff;
+}
+
+.workshop .courses section h3 {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.workshop .courses section h3 a {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    word-break: keep-all;
+    width: 388px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 50px;
+    color: #071F45;
+}
+
+.workshop .courses section .p1 {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    color: #3F3F46;
+}
+
+.workshop .courses section .p2 {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #71717A;
+}
+
+.workshop .courses section .p3 {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #4F5665;
+}
+
+.workshop .courses section .price {
+    position: absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FF6652;
+}
+
+.workshop .courses section div {
+    position: absolute;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.workshop .courses section .wlin {
+    position: absolute;
+    width: 910px;
+    height: 20px;
+    left: 1px;
+    bottom: 0px;
+    background: #F8F8F8;
+}
+
+.workshop .english {
+    top: 90px;
+    left: 0px;
+}
+
+.english h3 a {
+    top: 8px;
+    left: 231px;
+}
+
+.english [src="images/workshop/English course.jfif"] {
+    position: absolute;
+    width: 183px;
+    height: 121px;
+    left: 27px;
+    top: 24px;
+    border-radius: 4px;
+}
+
+.english .p1 {
+    top: 54px;
+    left: 231px;
+}
+
+.english .p2 {
+    top: 84px;
+    left: 231px;
+}
+
+.english .p3 {
+    top: 128px;
+    left: 250px;
+}
+
+.english [src="images/profile/calender.png"] {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 227.16px;
+    top: 130px;
+}
+
+.english h4 {
+    top: 19px;
+    left: 802px;
+}
+
+.english .on {
+    top: 165px;
+    left: 227px;
+    width: 132px;
+    height: 30px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.english .on [src="images/profile/education.jpg"] {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 18px;
+    height: 16px;
+}
+
+.english .on h4 {
+    position: absolute;
+    font-size: 14px;
+    top: 0px;
+    left: 25px;
+    color: #071f54;
+}
+
+.english .level {
+    position: absolute;
+    width: 99px;
+    height: 30px;
+    left: 367px;
+    top: 165px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.english .level [src="images/workshop/beginner.jfif"] {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 8px;
+    top: 6px;
+}
+
+.english .level h4 {
+    position: absolute;
+    width: 66px;
+    height: 14px;
+    left: 26px;
+    top: 0px;
+    font-size: 14px;
+    color: #071F45;
+}
+
+.english .time {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 475px;
+    top: 165px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.english .time [src="images/workshop/time.jfif"] {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 5px;
+    top: 6px;
+}
+
+.english .time h4 {
+    position: absolute;
+    width: 66px;
+    height: 14px;
+    left: 23px;
+    top: 0px;
+    font-size: 14px;
+    color: #071F45;
+}
+
+.workshop .w1 {
+    top: 297px;
+}
+
+.workshop .w2 {
+    top: 541px;
+}
+
+.workshop .w3 {
+    top: 780px;
+}
+
+.workshop .w4 {
+    top: 1009px;
+}
+
+.workshop .w5 {
+    top: 1253px;
+}
+
+.workshop .w6 {
+    top: 1492px;
+}
+
+.workshop .w7 {
+    top: 1721px;
+}
+
+.workshop .w8 {
+    top: 1965px;
+}
+
+.workshop .w9 {
+    position: absolute;
+    width: 867px;
+    height: 0px;
+    left: 17px;
+    top: 80px;
+    border: 0.754926px solid #DDDDE6;
+}
+
+.workshop .manegment {
+    top: 317px;
+    left: 0px;
+}
+
+.manegment1 h3 a,
+.manegment2 h3 a {
+    top: 8px;
+    left: 231px;
+}
+
+.manegment h3 a {
+    top: 5px;
+    left: 2px;
+}
+
+.manegment [src="images/workshop/workshop.jfif"],
+.manegment1 [src="images/workshop/workshop.jfif"],
+.manegment2 [src="images/workshop/workshop.jfif"] {
+    position: absolute;
+    width: 183px;
+    height: 121px;
+    left: 27px;
+    top: 24px;
+    border-radius: 4px;
+}
+
+.manegment .p1,
+.manegment1 .p1,
+.manegment2 .p1 {
+    top: 54px;
+    left: 231px;
+}
+
+.manegment .p2,
+.manegment2 .p2 {
+    top: 84px;
+    left: 231px;
+}
+
+.manegment1 .p2 {
+    top: 84px;
+}
+
+.manegment .p3,
+.manegment1 .p3,
+.manegment2 .p3 {
+    top: 128px;
+    left: 250px;
+}
+
+.manegment [src="images/profile/calender.png"],
+.manegment1 [src="images/profile/calender.png"],
+.manegment2 [src="images/profile/calender.png"] {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 227.16px;
+    top: 130px;
+}
+
+.manegment h4,
+.manegment1 h4,
+.manegment2 h4 {
+    top: 19px;
+    left: 802px;
+}
+
+.manegment .onm,
+.manegment1 .onm,
+.manegment2 .onm {
+    top: 165px;
+    left: 227px;
+    width: 141px;
+    height: 30px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.manegment .onm [src="images/profile/education.jpg"],
+.manegment1 .onm [src="images/profile/education.jpg"],
+.manegment2 .onm [src="images/profile/education.jpg"] {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 18px;
+    height: 16px;
+}
+
+.manegment .onm h4,
+.manegment1 .onm h4,
+.manegment2 .onm h4 {
+    position: absolute;
+    font-size: 14px;
+    top: 0px;
+    left: 25px;
+    color: #071f54;
+}
+
+.manegment .time,
+.manegment1 .time,
+.manegment2 .time {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 406px;
+    top: 165px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.manegment .time [src="images/workshop/time.jfif"],
+.manegment1 .time [src="images/workshop/time.jfif"],
+.manegment2 .time [src="images/workshop/time.jfif"] {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 5px;
+    top: 6px;
+}
+
+.manegment .time h4,
+.manegment1 .time h4,
+.manegment2 .time h4 {
+    position: absolute;
+    width: 66px;
+    height: 14px;
+    left: 23px;
+    top: 0px;
+    font-size: 14px;
+    color: #071F45;
+}
+
+.workshop .conversetion {
+    top: 561px;
+    left: 0px;
+}
+
+.conversetion h3 a,
+.conversetion1 h3 a,
+.conversetion2 h3 a {
+    top: 8px;
+    left: 231px;
+}
+
+.conversetion [src="images/workshop/conversation.jfif"],
+.conversetion1 [src="images/workshop/conversation.jfif"],
+.conversetion2 [src="images/workshop/conversation.jfif"] {
+    position: absolute;
+    width: 183px;
+    height: 121px;
+    left: 27px;
+    top: 24px;
+    border-radius: 4px;
+}
+
+.conversetion .p1,
+.conversetion1 .p1,
+.conversetion2 .p1 {
+    top: 54px;
+    left: 231px;
+}
+
+.conversetion .p2,
+.conversetion1 .p2,
+.conversetion2 .p2 {
+    top: 84px;
+    left: 231px;
+}
+
+.conversetion .p3,
+.conversetion1 .p3,
+.conversetion2 .p3 {
+    top: 128px;
+    left: 250px;
+}
+
+.conversetion [src="images/profile/calender.png"],
+.conversetion1 [src="images/profile/calender.png"],
+.conversetion2 [src="images/profile/calender.png"] {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 227.16px;
+    top: 130px;
+}
+
+.conversetion h4,
+.conversetion1 h4,
+.conversetion2 h4 {
+    top: 19px;
+    left: 802px;
+}
+
+.conversetion .onc,
+.conversetion1 .onc,
+.conversetion2 .onc {
+    top: 165px;
+    left: 227px;
+    width: 170px;
+    height: 30px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.conversetion .onc [src="images/profile/education.jpg"],
+.conversetion1 .onc [src="images/profile/education.jpg"],
+.conversetion2 .onc [src="images/profile/education.jpg"] {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 18px;
+    height: 16px;
+}
+
+.conversetion .onc h4,
+.conversetion1 .onc h4,
+.conversetion2 .onc h4 {
+    position: absolute;
+    font-size: 14px;
+    top: 0px;
+    left: 25px;
+    color: #071f54;
+}
+
+.conversetion .levelc,
+.conversetion1 .levelc,
+.conversetion2 .levelc {
+    position: absolute;
+    width: 191px;
+    height: 30px;
+    left: 406px;
+    top: 165px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.conversetion .levelc [src="images/workshop/beginner.jfif"],
+.conversetion1 .levelc [src="images/workshop/beginner.jfif"],
+.conversetion2 .levelc [src="images/workshop/beginner.jfif"] {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 8px;
+    top: 6px;
+}
+
+.conversetion .levelc h4,
+.conversetion1 .levelc h4,
+.conversetion2 .levelc h4 {
+    position: absolute;
+    width: 157px;
+    height: 27px;
+    left: 26px;
+    top: 0px;
+    font-size: 14px;
+    color: #071F45;
+}
+
+.conversetion .time,
+.conversetion1 .time,
+.conversetion2 .time {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 606px;
+    top: 165px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.conversetion .time [src="images/workshop/time.jfif"],
+.conversetion1 .time [src="images/workshop/time.jfif"],
+.conversetion2 .time [src="images/workshop/time.jfif"] {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 5px;
+    top: 6px;
+}
+
+.conversetion .time h4,
+.conversetion1 .time h4,
+.conversetion2 .time h4 {
+    position: absolute;
+    width: 66px;
+    height: 14px;
+    left: 23px;
+    top: 0px;
+    font-size: 14px;
+    color: #071F45;
+}
+
+.workshop .english1 {
+    top: 800px;
+    left: 0px;
+}
+
+.workshop .manegment1 {
+    top: 1029px;
+    left: 0px;
+}
+
+.workshop .conversetion1 {
+    top: 1273px;
+    left: 0px;
+}
+
+.workshop .english2 {
+    top: 1512px;
+    left: 0px;
+}
+
+.workshop .manegment2 {
+    top: 1741px;
+    left: 0px;
+}
+
+.manegment h3 {
+    top: 8px;
+    left: 231px;
+}
+
+.manegment [src="images/workshop/workshop.jfif"] {
+    position: absolute;
+    width: 183px;
+    height: 121px;
+    left: 27px;
+    top: 24px;
+    border-radius: 4px;
+}
+
+.manegment .p1 {
+    top: 54px;
+    left: 231px;
+}
+
+.manegment .p2 {
+    top: 84px;
+    left: 231px;
+}
+
+.manegment .p3 {
+    top: 128px;
+    left: 250px;
+}
+
+.manegment [src="images/profile/calender.png"] {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 227.16px;
+    top: 130px;
+}
+
+.manegment h4 {
+    top: 19px;
+    left: 802px;
+}
+
+.manegment .on {
+    top: 165px;
+    left: 227px;
+    width: 132px;
+    height: 30px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.manegment .on [src="images/profile/education.jpg"] {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 18px;
+    height: 16px;
+}
+
+.manegment .on h4 {
+    position: absolute;
+    font-size: 14px;
+    top: 0px;
+    left: 25px;
+    color: #071f54;
+}
+
+.manegment .time {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 475px;
+    top: 165px;
+    background: #EBEDF0;
+    border-radius: 3px;
+}
+
+.manegment .time [src="images/workshop/time.jfif"] {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 5px;
+    top: 6px;
+}
+
+.manegment .time h4 {
+    position: absolute;
+    width: 66px;
+    height: 14px;
+    left: 23px;
+    top: 0px;
+    font-size: 14px;
+    color: #071F45;
+}
+
+.workshop .w2 {
+    top: 541px;
+}
+
+.workshop .conversetion2 {
+    top: 1985px;
+    left: 0px;
+}
+
+.workshop .next {
+    position: absolute;
+    top: 2328px;
+    left: 570px;
+    background: #FFFFFF;
+    width: 348px;
+    height: 66px;
+}
+
+.workshop .next a {
+    position: absolute;
+    top: 35.05%;
+    bottom: 33.07%;
+    width: 10px;
+    background: white;
+    color: #464646;
+}
+
+
+/* .workshop .next a:visited {
+    color: #F4691C;
+} */
+
+.workshop .next .b {
+    opacity: 0.29;
+    position: absolute;
+    background: white;
+    left: 9.51%;
+    right: 87%;
+    top: 34.9%;
+    bottom: 35.1%;
+    width: 12px;
+    height: 19px;
+    color: #464646;
+    font-size: 28px;
+    border: 0px;
+}
+
+.workshop .next .p1 {
+    position: absolute;
+    left: 25.39%;
+    right: 72.31%;
+    top: 35.35%;
+    bottom: 32.58%;
+    color: #F4691C;
+}
+
+.workshop .next .p2 {
+    position: absolute;
+    left: 37.25%;
+    right: 58.75%;
+    top: 35.05%;
+    bottom: 33.07%;
+    color: #464646;
+}
+
+.workshop .next .p3 {
+    position: absolute;
+    left: 50%;
+    right: 46.01%;
+    top: 35.06%;
+    bottom: 32.46%;
+    color: #464646;
+}
+
+.workshop .next .p4 {
+    position: absolute;
+    left: 62.7%;
+    right: 32.64%;
+    top: 36.08%;
+    bottom: 32.61%;
+    color: #464646;
+}
+
+.workshop .next .p5 {
+    position: absolute;
+    left: 75.75%;
+    right: 20.11%;
+    top: 35.5%;
+    bottom: 32.7%;
+    color: #464646;
+}
+
+.workshop .next .n {
+    position: absolute;
+    left: 89.94%;
+    right: 6.57%;
+    top: 34.9%;
+    bottom: 35.1%;
+    color: #464646;
+    font-size: 28px;
+}
